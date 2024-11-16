@@ -1,0 +1,33 @@
+C:\Users\Piero\source\repos\ElBarbasShop\ElBarbasShop\bin\Debug\ElBarbasShop.exe.config
+C:\Users\Piero\source\repos\ElBarbasShop\ElBarbasShop\bin\Debug\ElBarbasShop.exe
+C:\Users\Piero\source\repos\ElBarbasShop\ElBarbasShop\bin\Debug\ElBarbasShop.pdb
+C:\Users\Piero\source\repos\ElBarbasShop\ElBarbasShop\obj\Debug\ElBarbasShop.csproj.AssemblyReference.cache
+C:\Users\Piero\source\repos\ElBarbasShop\ElBarbasShop\obj\Debug\ElBarbasShop.Forms.frmLogin.resources
+C:\Users\Piero\source\repos\ElBarbasShop\ElBarbasShop\obj\Debug\ElBarbasShop.Properties.Resources.resources
+C:\Users\Piero\source\repos\ElBarbasShop\ElBarbasShop\obj\Debug\ElBarbasShop.csproj.GenerateResource.cache
+C:\Users\Piero\source\repos\ElBarbasShop\ElBarbasShop\obj\Debug\ElBarbasShop.csproj.CoreCompileInputs.cache
+C:\Users\Piero\source\repos\ElBarbasShop\ElBarbasShop\obj\Debug\ElBarbasShop.exe
+C:\Users\Piero\source\repos\ElBarbasShop\ElBarbasShop\obj\Debug\ElBarbasShop.pdb
+C:\Users\Piero\source\repos\ElBarbasShop\ElBarbasShop\obj\Debug\ElBarbasShop.frmMain.resources
+C:\Users\Piero\source\repos\ElBarbasShop\ElBarbasShop\obj\Debug\ElBarbasShop.Forms.fmrSuperiorInvitado.resources
+C:\Users\Piero\source\repos\ElBarbasShop\ElBarbasShop\obj\Debug\ElBarbasShop.Forms.Lateral.frmLateralCli.resources
+C:\Users\Piero\source\repos\ElBarbasShop\ElBarbasShop\obj\Debug\ElBarbasShop.Forms.Superior.fmrSuperiorAdmin.resources
+C:\Users\Piero\source\repos\ElBarbasShop\ElBarbasShop\obj\Debug\ElBarbasShop.Forms.Lateral.fmrLatAdmin.resources
+C:\Users\Piero\source\repos\ElBarbasShop\ElBarbasShop\obj\Debug\ElBarbasShop.Forms.Superior.fmrSuperiorClie.resources
+C:\Users\pc\Desktop\CURSOS 6TO CICLO\Base de datos\sem13\ElBarbasShop\ElBarbasShop\ElBarbasShop\bin\Debug\ElBarbasShop.exe.config
+C:\Users\pc\Desktop\CURSOS 6TO CICLO\Base de datos\sem13\ElBarbasShop\ElBarbasShop\ElBarbasShop\bin\Debug\ElBarbasShop.exe
+C:\Users\pc\Desktop\CURSOS 6TO CICLO\Base de datos\sem13\ElBarbasShop\ElBarbasShop\ElBarbasShop\bin\Debug\ElBarbasShop.pdb
+C:\Users\pc\Desktop\CURSOS 6TO CICLO\Base de datos\sem13\ElBarbasShop\ElBarbasShop\ElBarbasShop\obj\Debug\ElBarbasShop.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\CURSOS 6TO CICLO\Base de datos\sem13\ElBarbasShop\ElBarbasShop\ElBarbasShop\obj\Debug\ElBarbasShop.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\CURSOS 6TO CICLO\Base de datos\sem13\ElBarbasShop\ElBarbasShop\ElBarbasShop\obj\Debug\ElBarbasShop.Forms.Lateral.fmrLatAdmin.resources
+C:\Users\pc\Desktop\CURSOS 6TO CICLO\Base de datos\sem13\ElBarbasShop\ElBarbasShop\ElBarbasShop\obj\Debug\ElBarbasShop.Forms.Lateral.frmLateralCli.resources
+C:\Users\pc\Desktop\CURSOS 6TO CICLO\Base de datos\sem13\ElBarbasShop\ElBarbasShop\ElBarbasShop\obj\Debug\ElBarbasShop.Forms.Superior.fmrSuperiorAdmin.resources
+C:\Users\pc\Desktop\CURSOS 6TO CICLO\Base de datos\sem13\ElBarbasShop\ElBarbasShop\ElBarbasShop\obj\Debug\ElBarbasShop.Forms.Superior.fmrSuperiorClie.resources
+C:\Users\pc\Desktop\CURSOS 6TO CICLO\Base de datos\sem13\ElBarbasShop\ElBarbasShop\ElBarbasShop\obj\Debug\ElBarbasShop.Forms.fmrSuperiorInvitado.resources
+C:\Users\pc\Desktop\CURSOS 6TO CICLO\Base de datos\sem13\ElBarbasShop\ElBarbasShop\ElBarbasShop\obj\Debug\ElBarbasShop.Forms.frmLogin.resources
+C:\Users\pc\Desktop\CURSOS 6TO CICLO\Base de datos\sem13\ElBarbasShop\ElBarbasShop\ElBarbasShop\obj\Debug\ElBarbasShop.frmMain.resources
+C:\Users\pc\Desktop\CURSOS 6TO CICLO\Base de datos\sem13\ElBarbasShop\ElBarbasShop\ElBarbasShop\obj\Debug\ElBarbasShop.Properties.Resources.resources
+C:\Users\pc\Desktop\CURSOS 6TO CICLO\Base de datos\sem13\ElBarbasShop\ElBarbasShop\ElBarbasShop\obj\Debug\ElBarbasShop.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\CURSOS 6TO CICLO\Base de datos\sem13\ElBarbasShop\ElBarbasShop\ElBarbasShop\obj\Debug\ElBarbasShop.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\CURSOS 6TO CICLO\Base de datos\sem13\ElBarbasShop\ElBarbasShop\ElBarbasShop\obj\Debug\ElBarbasShop.exe
+C:\Users\pc\Desktop\CURSOS 6TO CICLO\Base de datos\sem13\ElBarbasShop\ElBarbasShop\ElBarbasShop\obj\Debug\ElBarbasShop.pdb
