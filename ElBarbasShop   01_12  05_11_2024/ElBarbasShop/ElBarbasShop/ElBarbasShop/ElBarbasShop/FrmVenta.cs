@@ -15,6 +15,12 @@ namespace ElBarbasShop
         public FrmVenta()
         {
             InitializeComponent();
+            timer1.Start();
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            horaV.Text = DateTime.Now.ToString("HH:mm:ss");
         }
     }
 }

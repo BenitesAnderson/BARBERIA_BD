@@ -32,3 +32,19 @@ C:\Users\pc\Desktop\CURSOS 6TO CICLO\Base de datos\sem14\ElBarbasShop   01_12  0
 C:\Users\pc\Desktop\CURSOS 6TO CICLO\Base de datos\sem14\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
 C:\Users\pc\Desktop\CURSOS 6TO CICLO\Base de datos\sem14\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaLogica\obj\Debug\CapaLogica.exe
 C:\Users\pc\Desktop\CURSOS 6TO CICLO\Base de datos\sem14\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\JEFFREY\Desktop\ClonBaberiaJeffrey\BARBERIA_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaLogica\bin\Debug\CapaLogica.exe.config
+C:\Users\JEFFREY\Desktop\ClonBaberiaJeffrey\BARBERIA_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaLogica\bin\Debug\CapaLogica.exe
+C:\Users\JEFFREY\Desktop\ClonBaberiaJeffrey\BARBERIA_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\JEFFREY\Desktop\ClonBaberiaJeffrey\BARBERIA_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaLogica\bin\Debug\CapaAccesoDatos.exe
+C:\Users\JEFFREY\Desktop\ClonBaberiaJeffrey\BARBERIA_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaLogica\bin\Debug\CapaEntidad.exe
+C:\Users\JEFFREY\Desktop\ClonBaberiaJeffrey\BARBERIA_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaLogica\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\JEFFREY\Desktop\ClonBaberiaJeffrey\BARBERIA_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaLogica\bin\Debug\CapaAccesoDatos.exe.config
+C:\Users\JEFFREY\Desktop\ClonBaberiaJeffrey\BARBERIA_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaLogica\bin\Debug\CapaEntidad.pdb
+C:\Users\JEFFREY\Desktop\ClonBaberiaJeffrey\BARBERIA_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaLogica\bin\Debug\CapaEntidad.exe.config
+C:\Users\JEFFREY\Desktop\ClonBaberiaJeffrey\BARBERIA_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\JEFFREY\Desktop\ClonBaberiaJeffrey\BARBERIA_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaLogica\obj\Debug\CapaLogica.Properties.Resources.resources
+C:\Users\JEFFREY\Desktop\ClonBaberiaJeffrey\BARBERIA_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaLogica\obj\Debug\CapaLogica.csproj.GenerateResource.cache
+C:\Users\JEFFREY\Desktop\ClonBaberiaJeffrey\BARBERIA_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\JEFFREY\Desktop\ClonBaberiaJeffrey\BARBERIA_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaLogica\obj\Debug\CapaLogica.csproj.Up2Date
+C:\Users\JEFFREY\Desktop\ClonBaberiaJeffrey\BARBERIA_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaLogica\obj\Debug\CapaLogica.exe
+C:\Users\JEFFREY\Desktop\ClonBaberiaJeffrey\BARBERIA_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaLogica\obj\Debug\CapaLogica.pdb

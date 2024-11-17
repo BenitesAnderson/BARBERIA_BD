@@ -15,20 +15,27 @@ namespace ElBarbasShop
         public FormCliente()
         {
             InitializeComponent();
+
         }
-
-
-      
-
 
         private void FormCliente_Load(object sender, EventArgs e)
         {
-
+            timer1.Start();
         }
 
         private void label2_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            horaCliente.Text = DateTime.Now.ToString("HH:mm:ss");
         }
     }
 }
