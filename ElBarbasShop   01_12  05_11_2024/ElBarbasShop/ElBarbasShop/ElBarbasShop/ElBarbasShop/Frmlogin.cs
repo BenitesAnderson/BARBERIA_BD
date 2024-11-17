@@ -18,6 +18,7 @@ namespace ElBarbasShop
         public Frmlogin()
         {
             InitializeComponent();
+            timer1.Start();
         }
 
         private void btnRegistrar_Click(object sender, EventArgs e)
@@ -47,10 +48,6 @@ namespace ElBarbasShop
         }
 
 
-
-
-        
-
         private void Frmlogin_Load(object sender, EventArgs e)
         {
 
@@ -62,6 +59,16 @@ namespace ElBarbasShop
             f.ShowDialog();
             this.Hide();
 
+        }
+
+        private void btncancelar_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            horaL.Text = DateTime.Now.ToString("HH:mm:ss");
         }
     }
 }

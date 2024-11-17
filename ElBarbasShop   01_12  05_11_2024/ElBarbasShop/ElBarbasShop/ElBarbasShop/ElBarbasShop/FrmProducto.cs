@@ -15,11 +15,22 @@ namespace ElBarbasShop
         public FrmProducto()
         {
             InitializeComponent();
+            timer1.Start();
         }
 
         private void FrmProducto_Load(object sender, EventArgs e)
         {
 
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            horaP.Text = DateTime.Now.ToString("HH:mm:ss");
         }
     }
 }
