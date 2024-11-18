@@ -17,13 +17,11 @@ namespace ElBarbasShop
         public FrmBuscarSedeBarberia()
         {
             InitializeComponent();
-        
 
+            timer1.Start();
         }
 
         public static entBarberia barberiaSelect; 
-
-
 
 
         public void listarSedeBarberia()
@@ -99,15 +97,12 @@ namespace ElBarbasShop
 
         private void button4_Click(object sender, EventArgs e)
         {
+            listarSedeBarberia();
+        }
 
-
-
-            listarSedeBarberia(); 
-
-
-
-
-
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            horaBSB.Text = DateTime.Now.ToString("HH:mm:ss");
         }
     }
 }

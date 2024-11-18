@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormCliente));
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.label6 = new System.Windows.Forms.Label();
@@ -47,6 +48,8 @@
             this.label7 = new System.Windows.Forms.Label();
             this.textBox5 = new System.Windows.Forms.TextBox();
             this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.horaCliente = new System.Windows.Forms.Label();
+            this.timer1 = new System.Windows.Forms.Timer(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
@@ -56,7 +59,7 @@
             this.pictureBox1.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
             this.pictureBox1.Location = new System.Drawing.Point(127, 54);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(465, 240);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -79,7 +82,7 @@
             // textBox4
             // 
             this.textBox4.Location = new System.Drawing.Point(341, 409);
-            this.textBox4.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.textBox4.Margin = new System.Windows.Forms.Padding(5);
             this.textBox4.Name = "textBox4";
             this.textBox4.Size = new System.Drawing.Size(175, 22);
             this.textBox4.TabIndex = 88;
@@ -87,7 +90,7 @@
             // textBox2
             // 
             this.textBox2.Location = new System.Drawing.Point(341, 553);
-            this.textBox2.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.textBox2.Margin = new System.Windows.Forms.Padding(5);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(175, 22);
             this.textBox2.TabIndex = 87;
@@ -122,7 +125,7 @@
             // textBox1
             // 
             this.textBox1.Location = new System.Drawing.Point(340, 460);
-            this.textBox1.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.textBox1.Margin = new System.Windows.Forms.Padding(5);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(175, 22);
             this.textBox1.TabIndex = 83;
@@ -145,7 +148,7 @@
             this.button6.BackColor = System.Drawing.Color.Red;
             this.button6.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.button6.Location = new System.Drawing.Point(1226, 858);
-            this.button6.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.button6.Margin = new System.Windows.Forms.Padding(5);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(133, 42);
             this.button6.TabIndex = 98;
@@ -156,7 +159,7 @@
             // 
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Location = new System.Drawing.Point(727, 178);
-            this.dataGridView1.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.dataGridView1.Margin = new System.Windows.Forms.Padding(5);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.Size = new System.Drawing.Size(632, 650);
@@ -167,7 +170,7 @@
             this.button5.BackColor = System.Drawing.Color.Red;
             this.button5.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.button5.Location = new System.Drawing.Point(1226, 98);
-            this.button5.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.button5.Margin = new System.Windows.Forms.Padding(5);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(133, 41);
             this.button5.TabIndex = 96;
@@ -177,8 +180,8 @@
             // button4
             // 
             this.button4.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.button4.Location = new System.Drawing.Point(1051, 98);
-            this.button4.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.button4.Location = new System.Drawing.Point(972, 98);
+            this.button4.Margin = new System.Windows.Forms.Padding(5);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(133, 41);
             this.button4.TabIndex = 95;
@@ -188,8 +191,8 @@
             // button3
             // 
             this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.button3.Location = new System.Drawing.Point(895, 98);
-            this.button3.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.button3.Location = new System.Drawing.Point(727, 98);
+            this.button3.Margin = new System.Windows.Forms.Padding(5);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(133, 41);
             this.button3.TabIndex = 94;
@@ -199,13 +202,14 @@
             // button1
             // 
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.button1.Location = new System.Drawing.Point(727, 98);
-            this.button1.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.button1.Location = new System.Drawing.Point(362, 690);
+            this.button1.Margin = new System.Windows.Forms.Padding(5);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(133, 41);
             this.button1.TabIndex = 93;
             this.button1.Text = "AGREGAR";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // label3
             // 
@@ -236,7 +240,7 @@
             // textBox5
             // 
             this.textBox5.Location = new System.Drawing.Point(341, 504);
-            this.textBox5.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.textBox5.Margin = new System.Windows.Forms.Padding(5);
             this.textBox5.Name = "textBox5";
             this.textBox5.Size = new System.Drawing.Size(174, 22);
             this.textBox5.TabIndex = 101;
@@ -245,10 +249,27 @@
             // 
             this.comboBox1.FormattingEnabled = true;
             this.comboBox1.Location = new System.Drawing.Point(341, 601);
-            this.comboBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.comboBox1.Margin = new System.Windows.Forms.Padding(4);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(174, 24);
             this.comboBox1.TabIndex = 103;
+            // 
+            // horaCliente
+            // 
+            this.horaCliente.AutoSize = true;
+            this.horaCliente.BackColor = System.Drawing.Color.Transparent;
+            this.horaCliente.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.horaCliente.ForeColor = System.Drawing.Color.White;
+            this.horaCliente.Location = new System.Drawing.Point(1, 1);
+            this.horaCliente.Name = "horaCliente";
+            this.horaCliente.Size = new System.Drawing.Size(78, 31);
+            this.horaCliente.TabIndex = 104;
+            this.horaCliente.Text = "        ";
+            // 
+            // timer1
+            // 
+            this.timer1.Interval = 1000;
+            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
             // FormCliente
             // 
@@ -257,6 +278,7 @@
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(1493, 1019);
+            this.Controls.Add(this.horaCliente);
             this.Controls.Add(this.comboBox1);
             this.Controls.Add(this.textBox5);
             this.Controls.Add(this.label7);
@@ -275,8 +297,10 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.label1);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "FormCliente";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "EL BARBAS";
             this.Load += new System.EventHandler(this.FormCliente_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
@@ -306,5 +330,7 @@
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.TextBox textBox5;
         private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.Label horaCliente;
+        private System.Windows.Forms.Timer timer1;
     }
 }

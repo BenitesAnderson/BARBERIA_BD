@@ -20,11 +20,7 @@ namespace ElBarbasShop
         public FrmSedeBarberia()
         {
             InitializeComponent();
-         
-
-
-
-        
+            timer1.Start();
         }
 
         private bool habilitarSeleccion = false;
@@ -77,10 +73,6 @@ namespace ElBarbasShop
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
 
-           
-
-
-
         }
 
         private void button6_Click(object sender, EventArgs e)
@@ -89,9 +81,6 @@ namespace ElBarbasShop
             FrmEmpleado frmEmpleado = new FrmEmpleado();
             frmEmpleado.ShowDialog();
             this.Hide();
-
-
-
 
         }
 
@@ -128,15 +117,8 @@ namespace ElBarbasShop
                 }
             }
         }
-
-
-
-
-
             private void button7_Click(object sender, EventArgs e)
             {
-
-
 
             }
 
@@ -161,10 +143,6 @@ namespace ElBarbasShop
             }
 
             limpiarVariables();
-
-
-
-
 
         }
 
@@ -192,14 +170,11 @@ namespace ElBarbasShop
                 habilitarSeleccion = false;
             }
 
-
-
         }
 
         private void btnlimpiar_Click(object sender, EventArgs e)
         {
             limpiarVariables(); 
-
 
 
         }
@@ -231,13 +206,6 @@ namespace ElBarbasShop
             listarSedeBarberia();
 
 
-
-
-
-
-
-
-
         }
 
         private void button5_Click(object sender, EventArgs e)
@@ -260,12 +228,9 @@ namespace ElBarbasShop
             listarSedeBarberia();
         }
 
-
-
-
-
-
-
-
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            horaSB.Text = DateTime.Now.ToString("HH:mm:ss");
+        }
     }
 } 

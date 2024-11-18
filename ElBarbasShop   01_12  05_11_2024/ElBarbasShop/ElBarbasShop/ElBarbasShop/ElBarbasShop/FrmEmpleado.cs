@@ -23,6 +23,7 @@ namespace ElBarbasShop
         {
             InitializeComponent();
             cmbcargo.SelectedIndex = 0;
+            timer1.Start();
         }
         private bool habilitarSeleccion = false;
 
@@ -110,19 +111,11 @@ namespace ElBarbasShop
 
 
 
-
-
-
-
-
         }
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
          
-
-
-
 
         }
 
@@ -161,11 +154,6 @@ namespace ElBarbasShop
 
             limpiarVariables();
 
-        
-
-
-
-
 
         }
 
@@ -187,12 +175,6 @@ namespace ElBarbasShop
             limpiarVariables();
 
             listarEmpleados();
-
-
-
-
-
-
 
         }
 
@@ -230,17 +212,15 @@ namespace ElBarbasShop
                     cmbcargo.SelectedIndex = -1; // O puedes poner un valor predeterminado si lo deseas
                 }
 
-
-
                 // Desactiva la selección después de cargar los datos
                 habilitarSeleccion = false;
             }
 
+        }
 
-
-
-
-
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            horaE.Text = DateTime.Now.ToString("HH:mm:ss");
         }
     }
 }

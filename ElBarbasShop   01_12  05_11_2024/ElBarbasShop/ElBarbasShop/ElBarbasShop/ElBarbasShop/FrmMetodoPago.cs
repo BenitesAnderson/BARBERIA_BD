@@ -15,6 +15,12 @@ namespace ElBarbasShop
         public FrmMetodoPago()
         {
             InitializeComponent();
+            timer1.Start();
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            horaMP.Text = DateTime.Now.ToString("HH:mm:ss");
         }
     }
 }
