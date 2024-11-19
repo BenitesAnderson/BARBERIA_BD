@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace CapaLogica
 {
-    internal class logCliente
+    public class logCliente
     {
         #region Singleton
         // Patrón Singleton

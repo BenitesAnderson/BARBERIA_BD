@@ -16,7 +16,7 @@ namespace ElBarbasShop
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Frmlogin());
+            Application.Run(new FrmTelefonoCliente());
         }
     }
 }

@@ -97,13 +97,13 @@ namespace ElBarbasShop
             apellido = txtapellidos.Text;
             idsede = txtidbarberia.Text;
             correo = txtcorreo.Text;
-            cargo = cmbcargo.SelectedIndex.ToString();
+            cargo = cmbcargo.SelectedItem?.ToString();
             dni = txtdni.Text;
             entBarberia bar = logBarberia.Instancia.BuscarBarberiaPorId(idsede);
 
             // (string idempleado , string nombres, string apellidos,string dni,  string cargo, string correo , entBarberia barberia) 
 
-            entEmpleado em = new entEmpleado(idempleado, nombre, apellido, dni, cargo, correo, bar); 
+            entEmpleado em = new entEmpleado(idempleado, nombre, apellido, dni, cargo, correo, bar.idBarberia); 
             logEmpleado.Instancia.InsertarEmpleado(em);
 
             listarEmpleados(); 
@@ -164,7 +164,7 @@ namespace ElBarbasShop
 
             
                     entBarberia bar = logBarberia.Instancia.BuscarBarberiaPorId(txtidbarberia.Text);
-                entEmpleado c = new entEmpleado(txtidempleado.Text, txtnombre.Text, txtapellidos.Text, txtdni.Text, cmbcargo.SelectedIndex.ToString(), txtcorreo.Text, bar) ;
+                entEmpleado c = new entEmpleado(txtidempleado.Text, txtnombre.Text, txtapellidos.Text, txtdni.Text, cmbcargo.SelectedIndex.ToString(), txtcorreo.Text, bar.idBarberia) ;
 
                 logEmpleado.Instancia.EditarEmpleado(c);
             }
@@ -193,7 +193,7 @@ namespace ElBarbasShop
 
                 // Asigna los valores de las celdas a los TextBox
                 txtidempleado.Text = filaSeleccionada.Cells["idEmpleado"].Value.ToString();
-                txtnombre.Text = filaSeleccionada.Cells["nombre"].Value.ToString();
+                txtnombre.Text = filaSeleccionada.Cells["nombres"].Value.ToString();
                 txtapellidos.Text = filaSeleccionada.Cells["apellidos"].Value.ToString();
                 txtdni.Text = filaSeleccionada.Cells["dni"].Value.ToString();
                 txtidbarberia.Text = filaSeleccionada.Cells["idBarberia"].Value.ToString();
@@ -221,6 +221,27 @@ namespace ElBarbasShop
         private void timer1_Tick(object sender, EventArgs e)
         {
             horaE.Text = DateTime.Now.ToString("HH:mm:ss");
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+           entEmpleado em= new entEmpleado();
+             em = logEmpleado.Instancia.BuscarEmpeladoPorId(txtidempleado.Text);
+            logEmpleado.Instancia.DeshabilitarEmpleado(em);
+            
+            listarEmpleados();
+            limpiarVariables();
+
+
+
+
+
+
+        }
+
+        private void txtidempleado_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

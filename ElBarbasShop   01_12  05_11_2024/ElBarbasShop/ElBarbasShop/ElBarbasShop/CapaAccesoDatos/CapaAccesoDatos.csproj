@@ -46,9 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="dartProducto.cs" />
     <Compile Include="datCliente.cs" />
     <Compile Include="datEmpleado.cs" />
     <Compile Include="datSedeBarberia.cs" />
+    <Compile Include="datServicio.cs" />
+    <Compile Include="datTelefonoCliente.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>

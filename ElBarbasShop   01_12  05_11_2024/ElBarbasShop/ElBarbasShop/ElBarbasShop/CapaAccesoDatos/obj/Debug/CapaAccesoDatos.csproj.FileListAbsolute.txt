@@ -39,3 +39,17 @@ C:\Users\JEFFREY\Desktop\ClonBaberiaJeffrey\BARBERIA_BD\ElBarbasShop   01_12  05
 C:\Users\JEFFREY\Desktop\ClonBaberiaJeffrey\BARBERIA_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaAccesoDatos\obj\Debug\CapaAcce.1AD5E18C.Up2Date
 C:\Users\JEFFREY\Desktop\ClonBaberiaJeffrey\BARBERIA_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.exe
 C:\Users\JEFFREY\Desktop\ClonBaberiaJeffrey\BARBERIA_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+C:\Users\pc\Desktop\Proyecto_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Proyecto_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\Proyecto_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.Properties.Resources.resources
+C:\Users\pc\Desktop\Proyecto_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Proyecto_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Proyecto_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.exe
+C:\Users\pc\Desktop\Proyecto_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+C:\Users\pc\Desktop\Proyecto_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.exe.config
+C:\Users\pc\Desktop\Proyecto_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.exe
+C:\Users\pc\Desktop\Proyecto_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\pc\Desktop\Proyecto_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaAccesoDatos\bin\Debug\CapaEntidad.exe
+C:\Users\pc\Desktop\Proyecto_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaAccesoDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\pc\Desktop\Proyecto_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaAccesoDatos\bin\Debug\CapaEntidad.exe.config
+C:\Users\pc\Desktop\Proyecto_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CopyComplete

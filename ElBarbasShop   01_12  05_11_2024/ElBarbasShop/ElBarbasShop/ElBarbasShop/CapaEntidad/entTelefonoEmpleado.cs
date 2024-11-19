@@ -14,6 +14,8 @@ namespace CapaEntidad
         public string Operador { get; set; }
 
         public entEmpleado Empleado { get; set; }
+
+
     }
 }
 

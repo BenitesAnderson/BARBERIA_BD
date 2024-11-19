@@ -34,6 +34,7 @@ namespace ElBarbasShop
         public void limpiarVariables()
         {
             txtidsedebarberia.Text = "";
+            
           
         }
 

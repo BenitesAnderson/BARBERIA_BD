@@ -17,14 +17,14 @@ namespace CapaEntidad
         public string correo { get; set; }
      
 
-        public entBarberia barberia { get; set; }
+        public string idBarberia { get; set; }
 
 
         public entEmpleado()
         {
         }
         
-        public entEmpleado(string idempleado , string nombres, string apellidos,string dni,  string cargo, string correo , entBarberia barberia)
+        public entEmpleado(string idempleado , string nombres, string apellidos,string dni,  string cargo, string correo , string barberia)
 
         { 
 
@@ -34,7 +34,7 @@ namespace CapaEntidad
             this.dni = dni;
             this.cargo = cargo;  
             this.correo = correo;    
-            this.barberia = barberia;    
+            this.idBarberia = barberia;    
 
 
         }

@@ -18,8 +18,7 @@ namespace CapaEntidad
         public entCliente Cliente { get; set; }
         public entEmpleado Empleado { get; set; }
         public entMetodoPago MetodoPago { get; set; }
-        public ICollection<entDetalleVentaServicio> DetallesServicios { get; set; }
-        public ICollection<entDetalleVentaProducto> DetallesProductos { get; set; }
+        
     }
 }
 

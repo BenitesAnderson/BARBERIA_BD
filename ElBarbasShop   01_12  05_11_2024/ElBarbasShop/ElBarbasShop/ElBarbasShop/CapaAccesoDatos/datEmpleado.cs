@@ -42,10 +42,8 @@ namespace CapaAccesoDatos
                         dni = dr["dni"].ToString(),
                         correo = dr["correo"].ToString(),
                         cargo = dr["cargo"].ToString(),
-                        barberia = new entBarberia
-                        {
-                            idBarberia = dr["idBarberia"].ToString()
-                        }
+                        idBarberia = dr["idBarberia"].ToString()
+                       
                     };
                     lista.Add(emp);
                 }
@@ -75,7 +73,7 @@ namespace CapaAccesoDatos
                 cmd.Parameters.AddWithValue("@nombres", emp.nombres);
                 cmd.Parameters.AddWithValue("@apellidos", emp.apellidos);
                 cmd.Parameters.AddWithValue("@dni", emp.dni);
-                cmd.Parameters.AddWithValue("@idBarberia", emp.barberia.idBarberia);
+                cmd.Parameters.AddWithValue("@idBarberia", emp.idBarberia);
                 cmd.Parameters.AddWithValue("@correo", emp.correo);
                 cmd.Parameters.AddWithValue("@cargo", emp.cargo);
                 cn.Open();
@@ -107,7 +105,7 @@ namespace CapaAccesoDatos
                 cmd.Parameters.AddWithValue("@nombres", emp.nombres);
                 cmd.Parameters.AddWithValue("@apellidos", emp.apellidos);
                 cmd.Parameters.AddWithValue("@dni", emp.dni);
-                cmd.Parameters.AddWithValue("@idBarberia", emp.barberia.idBarberia);
+                cmd.Parameters.AddWithValue("@idBarberia", emp.idBarberia);
                 cmd.Parameters.AddWithValue("@correo", emp.correo);
                 cmd.Parameters.AddWithValue("@cargo", emp.cargo);
                 cn.Open();
@@ -167,7 +165,7 @@ namespace CapaAccesoDatos
             try
             {
                 SqlConnection cn = Conexion.Instancia.Conectar();
-                cmd = new SqlCommand("spBuscarEmpleadoPorId", cn); // Asegúrate de que este nombre coincida con el procedimiento almacenado
+                cmd = new SqlCommand("spBuscarEmpleado", cn); // Asegúrate de que este nombre coincida con el procedimiento almacenado
                 cmd.CommandType = CommandType.StoredProcedure;
                 cmd.Parameters.AddWithValue("@idEmpleado", idEmpleado);
 
@@ -183,10 +181,8 @@ namespace CapaAccesoDatos
                         dni = dr["dni"].ToString(),
                         correo = dr["correo"].ToString(),
                         cargo = dr["cargo"].ToString(),
-                        barberia = new entBarberia
-                        {
-                            idBarberia = dr["idBarberia"].ToString()
-                        }
+                        idBarberia = dr["idBarberia"].ToString()
+                        
                     };
                 }
             }
