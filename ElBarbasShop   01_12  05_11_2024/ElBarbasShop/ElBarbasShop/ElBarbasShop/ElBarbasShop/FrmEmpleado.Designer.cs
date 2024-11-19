@@ -317,7 +317,7 @@
             // btnlimpiar
             // 
             this.btnlimpiar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnlimpiar.Location = new System.Drawing.Point(204, 475);
+            this.btnlimpiar.Location = new System.Drawing.Point(204, 476);
             this.btnlimpiar.Margin = new System.Windows.Forms.Padding(4);
             this.btnlimpiar.Name = "btnlimpiar";
             this.btnlimpiar.Size = new System.Drawing.Size(82, 35);
