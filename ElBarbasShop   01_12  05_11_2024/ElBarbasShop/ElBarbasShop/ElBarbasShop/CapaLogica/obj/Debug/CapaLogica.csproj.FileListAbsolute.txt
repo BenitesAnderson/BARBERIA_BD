@@ -65,3 +65,9 @@ C:\Users\pc\Desktop\Proyecto_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\El
 C:\Users\pc\Desktop\Proyecto_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
 C:\Users\pc\Desktop\Proyecto_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaLogica\obj\Debug\CapaLogica.exe
 C:\Users\pc\Desktop\Proyecto_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\Piero\Desktop\P\BARBERIA_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\Piero\Desktop\P\BARBERIA_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaLogica\obj\Debug\CapaLogica.Properties.Resources.resources
+C:\Users\Piero\Desktop\P\BARBERIA_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaLogica\obj\Debug\CapaLogica.csproj.GenerateResource.cache
+C:\Users\Piero\Desktop\P\BARBERIA_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\Piero\Desktop\P\BARBERIA_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaLogica\obj\Debug\CapaLogica.exe
+C:\Users\Piero\Desktop\P\BARBERIA_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaLogica\obj\Debug\CapaLogica.pdb

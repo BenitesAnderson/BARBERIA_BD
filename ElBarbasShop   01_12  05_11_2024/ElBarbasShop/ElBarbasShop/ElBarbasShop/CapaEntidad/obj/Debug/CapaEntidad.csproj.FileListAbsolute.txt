@@ -40,3 +40,13 @@ C:\Users\pc\Desktop\Proyecto_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\El
 C:\Users\pc\Desktop\Proyecto_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
 C:\Users\pc\Desktop\Proyecto_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaEntidad\obj\Debug\CapaEntidad.exe
 C:\Users\pc\Desktop\Proyecto_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Piero\Desktop\P\BARBERIA_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaEntidad\bin\Debug\CapaEntidad.exe.config
+C:\Users\Piero\Desktop\P\BARBERIA_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaEntidad\bin\Debug\CapaEntidad.exe
+C:\Users\Piero\Desktop\P\BARBERIA_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Piero\Desktop\P\BARBERIA_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Piero\Desktop\P\BARBERIA_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaEntidad\obj\Debug\CapaEntidad.Form1.resources
+C:\Users\Piero\Desktop\P\BARBERIA_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaEntidad\obj\Debug\CapaEntidad.Properties.Resources.resources
+C:\Users\Piero\Desktop\P\BARBERIA_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaEntidad\obj\Debug\CapaEntidad.csproj.GenerateResource.cache
+C:\Users\Piero\Desktop\P\BARBERIA_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Piero\Desktop\P\BARBERIA_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaEntidad\obj\Debug\CapaEntidad.exe
+C:\Users\Piero\Desktop\P\BARBERIA_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaEntidad\obj\Debug\CapaEntidad.pdb
