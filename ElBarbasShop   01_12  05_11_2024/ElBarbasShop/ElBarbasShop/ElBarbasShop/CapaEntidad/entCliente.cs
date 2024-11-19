@@ -14,7 +14,5 @@ namespace CapaEntidad
         public string dni { get; set; }
         public string tipoCliente { get; set; }
 
-        
-     
     }
 }

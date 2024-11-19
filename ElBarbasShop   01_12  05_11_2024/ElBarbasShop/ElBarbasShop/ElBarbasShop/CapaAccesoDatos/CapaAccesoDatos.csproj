@@ -48,7 +48,10 @@
   <ItemGroup>
     <Compile Include="dartProducto.cs" />
     <Compile Include="datCliente.cs" />
+    <Compile Include="datDetalleVentaProducto.cs" />
+    <Compile Include="datDetalleVentaServicio.cs" />
     <Compile Include="datEmpleado.cs" />
+    <Compile Include="datMetodoPago.cs" />
     <Compile Include="datSedeBarberia.cs" />
     <Compile Include="datServicio.cs" />
     <Compile Include="datTelefonoCliente.cs" />

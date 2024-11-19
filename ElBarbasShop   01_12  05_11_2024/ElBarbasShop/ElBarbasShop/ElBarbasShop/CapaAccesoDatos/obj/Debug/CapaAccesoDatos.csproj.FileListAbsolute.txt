@@ -53,3 +53,9 @@ C:\Users\pc\Desktop\Proyecto_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\El
 C:\Users\pc\Desktop\Proyecto_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaAccesoDatos\bin\Debug\CapaEntidad.pdb
 C:\Users\pc\Desktop\Proyecto_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaAccesoDatos\bin\Debug\CapaEntidad.exe.config
 C:\Users\pc\Desktop\Proyecto_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CopyComplete
+C:\Users\Piero\Desktop\P\BARBERIA_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Piero\Desktop\P\BARBERIA_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.Properties.Resources.resources
+C:\Users\Piero\Desktop\P\BARBERIA_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.GenerateResource.cache
+C:\Users\Piero\Desktop\P\BARBERIA_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Piero\Desktop\P\BARBERIA_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.exe
+C:\Users\Piero\Desktop\P\BARBERIA_BD\ElBarbasShop   01_12  05_11_2024\ElBarbasShop\ElBarbasShop\ElBarbasShop\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb

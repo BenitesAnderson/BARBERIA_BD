@@ -64,11 +64,23 @@
     <Compile Include="FormCliente.Designer.cs">
       <DependentUpon>FormCliente.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmBuscarProductoId.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBuscarProductoId.Designer.cs">
+      <DependentUpon>FrmBuscarProductoId.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmBuscarSedeBarberia.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FrmBuscarSedeBarberia.Designer.cs">
       <DependentUpon>FrmBuscarSedeBarberia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBuscarVentaId.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBuscarVentaId.Designer.cs">
+      <DependentUpon>FrmBuscarVentaId.cs</DependentUpon>
     </Compile>
     <Compile Include="FrmEmpleado.cs">
       <SubType>Form</SubType>
@@ -147,8 +159,14 @@
     <EmbeddedResource Include="FormCliente.resx">
       <DependentUpon>FormCliente.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FrmBuscarProductoId.resx">
+      <DependentUpon>FrmBuscarProductoId.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FrmBuscarSedeBarberia.resx">
       <DependentUpon>FrmBuscarSedeBarberia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBuscarVentaId.resx">
+      <DependentUpon>FrmBuscarVentaId.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmEmpleado.resx">
       <DependentUpon>FrmEmpleado.cs</DependentUpon>
