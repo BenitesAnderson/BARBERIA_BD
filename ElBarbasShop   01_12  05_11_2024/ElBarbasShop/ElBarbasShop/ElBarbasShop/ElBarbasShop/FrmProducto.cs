@@ -179,5 +179,12 @@ namespace ElBarbasShop
             limpiarVariables();
 
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            FrmPrincipal f = new FrmPrincipal();
+            f.Show();
+            this.Close();
+        }
     }
 }

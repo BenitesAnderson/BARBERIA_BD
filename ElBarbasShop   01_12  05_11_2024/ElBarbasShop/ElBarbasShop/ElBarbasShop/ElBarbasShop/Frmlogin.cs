@@ -55,7 +55,7 @@ namespace ElBarbasShop
 
         private void btnIniciar_Click(object sender, EventArgs e)
         {
-            FrmSedeBarberia f  = new FrmSedeBarberia();
+            FrmPrincipal f  = new FrmPrincipal();
             f.ShowDialog();
             this.Hide();
 

@@ -37,5 +37,12 @@ namespace ElBarbasShop
         {
             horaCliente.Text = DateTime.Now.ToString("HH:mm:ss");
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            FrmPrincipal principal = new FrmPrincipal();
+            principal.Show();
+            this.Close();
+        }
     }
 }

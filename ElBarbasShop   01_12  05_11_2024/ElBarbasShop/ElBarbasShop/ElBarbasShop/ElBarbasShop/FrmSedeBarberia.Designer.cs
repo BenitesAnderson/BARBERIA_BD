@@ -48,6 +48,7 @@
             this.button7 = new System.Windows.Forms.Button();
             this.horaSB = new System.Windows.Forms.Label();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
+            this.button8 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgvbarberia)).BeginInit();
             this.SuspendLayout();
             // 
@@ -66,7 +67,7 @@
             // txtidsede
             // 
             this.txtidsede.Location = new System.Drawing.Point(260, 158);
-            this.txtidsede.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtidsede.Margin = new System.Windows.Forms.Padding(4);
             this.txtidsede.Name = "txtidsede";
             this.txtidsede.Size = new System.Drawing.Size(132, 22);
             this.txtidsede.TabIndex = 2;
@@ -112,7 +113,7 @@
             // txtnombre
             // 
             this.txtnombre.Location = new System.Drawing.Point(260, 197);
-            this.txtnombre.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtnombre.Margin = new System.Windows.Forms.Padding(4);
             this.txtnombre.Name = "txtnombre";
             this.txtnombre.Size = new System.Drawing.Size(132, 22);
             this.txtnombre.TabIndex = 6;
@@ -120,7 +121,7 @@
             // txtubicacion
             // 
             this.txtubicacion.Location = new System.Drawing.Point(260, 238);
-            this.txtubicacion.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtubicacion.Margin = new System.Windows.Forms.Padding(4);
             this.txtubicacion.Name = "txtubicacion";
             this.txtubicacion.Size = new System.Drawing.Size(132, 22);
             this.txtubicacion.TabIndex = 7;
@@ -130,7 +131,7 @@
             this.button6.BackColor = System.Drawing.SystemColors.Control;
             this.button6.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button6.Location = new System.Drawing.Point(924, 505);
-            this.button6.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.button6.Margin = new System.Windows.Forms.Padding(5);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(129, 55);
             this.button6.TabIndex = 40;
@@ -142,7 +143,7 @@
             // 
             this.dgvbarberia.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvbarberia.Location = new System.Drawing.Point(79, 352);
-            this.dgvbarberia.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.dgvbarberia.Margin = new System.Windows.Forms.Padding(5);
             this.dgvbarberia.Name = "dgvbarberia";
             this.dgvbarberia.RowHeadersWidth = 51;
             this.dgvbarberia.Size = new System.Drawing.Size(820, 314);
@@ -156,7 +157,7 @@
             this.button5.BackColor = System.Drawing.Color.Coral;
             this.button5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button5.Location = new System.Drawing.Point(481, 308);
-            this.button5.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.button5.Margin = new System.Windows.Forms.Padding(5);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(127, 34);
             this.button5.TabIndex = 38;
@@ -168,7 +169,7 @@
             // 
             this.button4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button4.Location = new System.Drawing.Point(287, 308);
-            this.button4.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.button4.Margin = new System.Windows.Forms.Padding(5);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(115, 34);
             this.button4.TabIndex = 37;
@@ -180,7 +181,7 @@
             // 
             this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button3.Location = new System.Drawing.Point(79, 308);
-            this.button3.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.button3.Margin = new System.Windows.Forms.Padding(5);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(112, 34);
             this.button3.TabIndex = 36;
@@ -192,7 +193,7 @@
             // 
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.Location = new System.Drawing.Point(416, 179);
-            this.button1.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.button1.Margin = new System.Windows.Forms.Padding(5);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(102, 59);
             this.button1.TabIndex = 35;
@@ -206,7 +207,7 @@
             this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button2.Location = new System.Drawing.Point(924, 373);
-            this.button2.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.button2.Margin = new System.Windows.Forms.Padding(5);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(129, 71);
             this.button2.TabIndex = 41;
@@ -219,7 +220,7 @@
             this.btnlimpiar.BackColor = System.Drawing.Color.WhiteSmoke;
             this.btnlimpiar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnlimpiar.Location = new System.Drawing.Point(541, 179);
-            this.btnlimpiar.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.btnlimpiar.Margin = new System.Windows.Forms.Padding(5);
             this.btnlimpiar.Name = "btnlimpiar";
             this.btnlimpiar.Size = new System.Drawing.Size(102, 59);
             this.btnlimpiar.TabIndex = 42;
@@ -231,7 +232,7 @@
             // 
             this.button7.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button7.Location = new System.Drawing.Point(706, 308);
-            this.button7.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.button7.Margin = new System.Windows.Forms.Padding(5);
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(149, 34);
             this.button7.TabIndex = 43;
@@ -256,6 +257,19 @@
             this.timer1.Interval = 1000;
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
+            // button8
+            // 
+            this.button8.BackColor = System.Drawing.Color.Red;
+            this.button8.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button8.Location = new System.Drawing.Point(924, 611);
+            this.button8.Margin = new System.Windows.Forms.Padding(5);
+            this.button8.Name = "button8";
+            this.button8.Size = new System.Drawing.Size(129, 55);
+            this.button8.TabIndex = 111;
+            this.button8.Text = "SALIR";
+            this.button8.UseVisualStyleBackColor = false;
+            this.button8.Click += new System.EventHandler(this.button8_Click);
+            // 
             // FrmSedeBarberia
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -263,6 +277,7 @@
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(1292, 722);
+            this.Controls.Add(this.button8);
             this.Controls.Add(this.horaSB);
             this.Controls.Add(this.button7);
             this.Controls.Add(this.btnlimpiar);
@@ -281,7 +296,7 @@
             this.Controls.Add(this.txtidsede);
             this.Controls.Add(this.label1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "FrmSedeBarberia";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "EL BARBAS";
@@ -312,5 +327,6 @@
         private System.Windows.Forms.Button button7;
         private System.Windows.Forms.Label horaSB;
         private System.Windows.Forms.Timer timer1;
+        private System.Windows.Forms.Button button8;
     }
 }
