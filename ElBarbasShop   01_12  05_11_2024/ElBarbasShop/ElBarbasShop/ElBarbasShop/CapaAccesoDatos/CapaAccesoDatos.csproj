@@ -49,6 +49,7 @@
     <Compile Include="dartProducto.cs" />
     <Compile Include="datCliente.cs" />
     <Compile Include="datEmpleado.cs" />
+    <Compile Include="datHorario.cs" />
     <Compile Include="datSedeBarberia.cs" />
     <Compile Include="datServicio.cs" />
     <Compile Include="datTelefonoCliente.cs" />
