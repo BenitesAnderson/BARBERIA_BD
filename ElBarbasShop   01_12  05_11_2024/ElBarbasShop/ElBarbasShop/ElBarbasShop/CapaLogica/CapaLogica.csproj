@@ -55,6 +55,8 @@
     <Compile Include="logBarberia.cs" />
     <Compile Include="logCliente.cs" />
     <Compile Include="logEmpleado.cs" />
+    <Compile Include="logTelefonoEmpleado.cs" />
+    <Compile Include="logVenta.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">

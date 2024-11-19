@@ -49,6 +49,9 @@
     <Compile Include="datCliente.cs" />
     <Compile Include="datEmpleado.cs" />
     <Compile Include="datSedeBarberia.cs" />
+    <Compile Include="datServicio.cs" />
+    <Compile Include="datTelefonoEmpleado.cs" />
+    <Compile Include="datVenta.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>

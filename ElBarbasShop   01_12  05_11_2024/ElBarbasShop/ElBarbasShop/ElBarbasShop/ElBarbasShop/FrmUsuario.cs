@@ -22,5 +22,10 @@ namespace ElBarbasShop
         {
             horaU.Text = DateTime.Now.ToString("HH:mm:ss");
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

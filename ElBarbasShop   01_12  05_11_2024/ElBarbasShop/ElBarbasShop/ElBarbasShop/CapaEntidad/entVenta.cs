@@ -8,6 +8,7 @@ namespace CapaEntidad
 {
     public class entVenta
     {
+        // Propiedades
         public string IdVenta { get; set; }
         public DateTime FechaVenta { get; set; }
         public decimal Monto { get; set; }
@@ -15,11 +16,18 @@ namespace CapaEntidad
         public string IdEmpleado { get; set; }
         public string IdMetodoPago { get; set; }
 
-        public entCliente Cliente { get; set; }
-        public entEmpleado Empleado { get; set; }
-        public entMetodoPago MetodoPago { get; set; }
-        public ICollection<entDetalleVentaServicio> DetallesServicios { get; set; }
-        public ICollection<entDetalleVentaProducto> DetallesProductos { get; set; }
+        // Constructor vacío
+        public entVenta() { }
+
+        // Constructor con parámetros
+        public entVenta(string idVenta, DateTime fechaVenta, decimal monto, string idCliente, string idEmpleado, string idMetodoPago)
+        {
+            this.IdVenta = idVenta;
+            this.FechaVenta = fechaVenta;
+            this.Monto = monto;
+            this.IdCliente = idCliente;
+            this.IdEmpleado = idEmpleado;
+            this.IdMetodoPago = idMetodoPago;
+        }
     }
 }
-

@@ -46,17 +46,29 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DetalleVentaProducto.cs">
+    <Compile Include="FrmBuscarEmpleado.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="DetalleVentaProducto.Designer.cs">
-      <DependentUpon>DetalleVentaProducto.cs</DependentUpon>
+    <Compile Include="FrmBuscarEmpleado.Designer.cs">
+      <DependentUpon>FrmBuscarEmpleado.cs</DependentUpon>
     </Compile>
-    <Compile Include="DetalleVentaServicio.cs">
+    <Compile Include="FrmBuscarTelefonoEmpleado.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="DetalleVentaServicio.Designer.cs">
-      <DependentUpon>DetalleVentaServicio.cs</DependentUpon>
+    <Compile Include="FrmBuscarTelefonoEmpleado.Designer.cs">
+      <DependentUpon>FrmBuscarTelefonoEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDetalleVentaProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDetalleVentaProducto.Designer.cs">
+      <DependentUpon>FrmDetalleVentaProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDetalleVentaServicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDetalleVentaServicio.Designer.cs">
+      <DependentUpon>FrmDetalleVentaServicio.cs</DependentUpon>
     </Compile>
     <Compile Include="FormCliente.cs">
       <SubType>Form</SubType>
@@ -138,11 +150,17 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="DetalleVentaProducto.resx">
-      <DependentUpon>DetalleVentaProducto.cs</DependentUpon>
+    <EmbeddedResource Include="FrmBuscarEmpleado.resx">
+      <DependentUpon>FrmBuscarEmpleado.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="DetalleVentaServicio.resx">
-      <DependentUpon>DetalleVentaServicio.cs</DependentUpon>
+    <EmbeddedResource Include="FrmBuscarTelefonoEmpleado.resx">
+      <DependentUpon>FrmBuscarTelefonoEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDetalleVentaProducto.resx">
+      <DependentUpon>FrmDetalleVentaProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDetalleVentaServicio.resx">
+      <DependentUpon>FrmDetalleVentaServicio.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormCliente.resx">
       <DependentUpon>FormCliente.cs</DependentUpon>

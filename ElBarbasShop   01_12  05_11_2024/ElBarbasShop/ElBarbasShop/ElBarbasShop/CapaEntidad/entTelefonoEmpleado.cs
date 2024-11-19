@@ -8,12 +8,20 @@ namespace CapaEntidad
 {
     public class entTelefonoEmpleado
     {
-        public int IdTelefono { get; set; }
-        public string IdEmpleado { get; set; }
-        public string NumeroTelefono { get; set; }
-        public string Operador { get; set; }
+        // Propiedades
+        public string idEmpleado { get; set; }
+        public string numeroTelefono { get; set; }
+        public string operador { get; set; }
 
-        public entEmpleado Empleado { get; set; }
+        // Constructor vacío
+        public entTelefonoEmpleado() { }
+
+        // Constructor con parámetros
+        public entTelefonoEmpleado(string idEmpleado, string numeroTelefono, string operador)
+        {
+            this.idEmpleado = idEmpleado;
+            this.numeroTelefono = numeroTelefono;
+            this.operador = operador;
+        }
     }
 }
-

@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace ElBarbasShop
 {
-    public partial class DetalleVentaProducto : Form
+    public partial class FrmDetalleVentaProducto : Form
     {
-        public DetalleVentaProducto()
+        public FrmDetalleVentaProducto()
         {
             InitializeComponent();
             timer1.Start();
@@ -21,6 +21,11 @@ namespace ElBarbasShop
         private void timer1_Tick(object sender, EventArgs e)
         {
             horaDVP.Text = DateTime.Now.ToString("HH:mm:ss");
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

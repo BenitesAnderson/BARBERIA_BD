@@ -1,193 +1,182 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\",
+  "WorkspaceRootPath": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|c:\\users\\jeffrey\\desktop\\clonbaberiajeffrey\\barberia_bd\\elbarbasshop   01_12  05_11_2024\\elbarbasshop\\elbarbasshop\\elbarbasshop\\elbarbasshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|c:\\users\\jeffrey\\desktop\\clonbaberiajeffrey\\barberia_bd\\elbarbasshop   01_12  05_11_2024\\elbarbasshop\\elbarbasshop\\elbarbasshop\\elbarbasshop\\frmventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\frmventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|c:\\users\\jeffrey\\desktop\\clonbaberiajeffrey\\barberia_bd\\elbarbasshop   01_12  05_11_2024\\elbarbasshop\\elbarbasshop\\elbarbasshop\\elbarbasshop\\frmtelefonocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\frmtelefonocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|c:\\users\\jeffrey\\desktop\\clonbaberiajeffrey\\barberia_bd\\elbarbasshop   01_12  05_11_2024\\elbarbasshop\\elbarbasshop\\elbarbasshop\\elbarbasshop\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|c:\\users\\jeffrey\\desktop\\clonbaberiajeffrey\\barberia_bd\\elbarbasshop   01_12  05_11_2024\\elbarbasshop\\elbarbasshop\\elbarbasshop\\elbarbasshop\\frmtelefonoempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\frmtelefonoempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|c:\\users\\jeffrey\\desktop\\clonbaberiajeffrey\\barberia_bd\\elbarbasshop   01_12  05_11_2024\\elbarbasshop\\elbarbasshop\\elbarbasshop\\elbarbasshop\\frmventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\frmventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|c:\\users\\jeffrey\\desktop\\clonbaberiajeffrey\\barberia_bd\\elbarbasshop   01_12  05_11_2024\\elbarbasshop\\elbarbasshop\\elbarbasshop\\elbarbasshop\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|c:\\users\\jeffrey\\desktop\\clonbaberiajeffrey\\barberia_bd\\elbarbasshop   01_12  05_11_2024\\elbarbasshop\\elbarbasshop\\elbarbasshop\\elbarbasshop\\frmtelefonoempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\frmtelefonoempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|c:\\users\\jeffrey\\desktop\\clonbaberiajeffrey\\barberia_bd\\elbarbasshop   01_12  05_11_2024\\elbarbasshop\\elbarbasshop\\elbarbasshop\\elbarbasshop\\frmtelefonocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\frmtelefonocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|c:\\users\\jeffrey\\desktop\\clonbaberiajeffrey\\barberia_bd\\elbarbasshop   01_12  05_11_2024\\elbarbasshop\\elbarbasshop\\elbarbasshop\\elbarbasshop\\frmservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\frmservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|c:\\users\\jeffrey\\desktop\\clonbaberiajeffrey\\barberia_bd\\elbarbasshop   01_12  05_11_2024\\elbarbasshop\\elbarbasshop\\elbarbasshop\\elbarbasshop\\frmservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\frmservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|c:\\users\\jeffrey\\desktop\\clonbaberiajeffrey\\barberia_bd\\elbarbasshop   01_12  05_11_2024\\elbarbasshop\\elbarbasshop\\elbarbasshop\\elbarbasshop\\frmsedebarberia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\frmsedebarberia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|c:\\users\\jeffrey\\desktop\\clonbaberiajeffrey\\barberia_bd\\elbarbasshop   01_12  05_11_2024\\elbarbasshop\\elbarbasshop\\elbarbasshop\\elbarbasshop\\frmsedebarberia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\frmsedebarberia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|c:\\users\\jeffrey\\desktop\\clonbaberiajeffrey\\barberia_bd\\elbarbasshop   01_12  05_11_2024\\elbarbasshop\\elbarbasshop\\elbarbasshop\\elbarbasshop\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|c:\\users\\jeffrey\\desktop\\clonbaberiajeffrey\\barberia_bd\\elbarbasshop   01_12  05_11_2024\\elbarbasshop\\elbarbasshop\\elbarbasshop\\elbarbasshop\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|c:\\users\\jeffrey\\desktop\\clonbaberiajeffrey\\barberia_bd\\elbarbasshop   01_12  05_11_2024\\elbarbasshop\\elbarbasshop\\elbarbasshop\\elbarbasshop\\frmmetodopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\frmmetodopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|c:\\users\\jeffrey\\desktop\\clonbaberiajeffrey\\barberia_bd\\elbarbasshop   01_12  05_11_2024\\elbarbasshop\\elbarbasshop\\elbarbasshop\\elbarbasshop\\frmmetodopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\frmmetodopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|c:\\users\\jeffrey\\desktop\\clonbaberiajeffrey\\barberia_bd\\elbarbasshop   01_12  05_11_2024\\elbarbasshop\\elbarbasshop\\elbarbasshop\\elbarbasshop\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|c:\\users\\jeffrey\\desktop\\clondenico\\barberia_bd\\elbarbasshop   01_12  05_11_2024\\elbarbasshop\\elbarbasshop\\elbarbasshop\\elbarbasshop\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|c:\\users\\jeffrey\\desktop\\clonbaberiajeffrey\\barberia_bd\\elbarbasshop   01_12  05_11_2024\\elbarbasshop\\elbarbasshop\\elbarbasshop\\elbarbasshop\\frmhorario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\frmhorario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\elbarbasshop\\frmbuscarempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\frmbuscarempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|c:\\users\\jeffrey\\desktop\\clonbaberiajeffrey\\barberia_bd\\elbarbasshop   01_12  05_11_2024\\elbarbasshop\\elbarbasshop\\elbarbasshop\\elbarbasshop\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\elbarbasshop\\frmventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\frmventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|c:\\users\\jeffrey\\desktop\\clonbaberiajeffrey\\barberia_bd\\elbarbasshop   01_12  05_11_2024\\elbarbasshop\\elbarbasshop\\elbarbasshop\\elbarbasshop\\frmhorario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\elbarbasshop\\frmventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\frmventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\elbarbasshop\\frmsedebarberia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\frmsedebarberia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\elbarbasshop\\frmmetodopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\frmmetodopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\elbarbasshop\\frmsedebarberia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\frmsedebarberia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\elbarbasshop\\frmmetodopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\frmmetodopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\elbarbasshop\\frmhorario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\frmhorario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|c:\\users\\jeffrey\\desktop\\clonbaberiajeffrey\\barberia_bd\\elbarbasshop   01_12  05_11_2024\\elbarbasshop\\elbarbasshop\\elbarbasshop\\elbarbasshop\\frmempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\frmempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\elbarbasshop\\frmhorario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\frmhorario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|c:\\users\\jeffrey\\desktop\\clonbaberiajeffrey\\barberia_bd\\elbarbasshop   01_12  05_11_2024\\elbarbasshop\\elbarbasshop\\elbarbasshop\\elbarbasshop\\frmempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\elbarbasshop\\frmempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\frmempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|c:\\users\\jeffrey\\desktop\\clonbaberiajeffrey\\barberia_bd\\elbarbasshop   01_12  05_11_2024\\elbarbasshop\\elbarbasshop\\elbarbasshop\\elbarbasshop\\frmbuscarsedebarberia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\elbarbasshop\\frmempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\frmempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\elbarbasshop\\frmdetalleventaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\frmdetalleventaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\elbarbasshop\\frmdetalleventaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\frmdetalleventaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\elbarbasshop\\frmdetalleventaproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\frmdetalleventaproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\elbarbasshop\\frmdetalleventaproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\frmdetalleventaproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\elbarbasshop\\frmbuscartelefonoempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\frmbuscartelefonoempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\elbarbasshop\\frmbuscarsedebarberia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\frmbuscarsedebarberia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|c:\\users\\jeffrey\\desktop\\clonbaberiajeffrey\\barberia_bd\\elbarbasshop   01_12  05_11_2024\\elbarbasshop\\elbarbasshop\\elbarbasshop\\elbarbasshop\\frmbuscarsedebarberia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\frmbuscarsedebarberia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\elbarbasshop\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|c:\\users\\jeffrey\\desktop\\clonbaberiajeffrey\\barberia_bd\\elbarbasshop   01_12  05_11_2024\\elbarbasshop\\elbarbasshop\\elbarbasshop\\elbarbasshop\\formcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\formcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\elbarbasshop\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\frmusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|c:\\users\\jeffrey\\desktop\\clonbaberiajeffrey\\barberia_bd\\elbarbasshop   01_12  05_11_2024\\elbarbasshop\\elbarbasshop\\elbarbasshop\\elbarbasshop\\detalleventaproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\detalleventaproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\elbarbasshop\\frmservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\frmservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|c:\\users\\jeffrey\\desktop\\clonbaberiajeffrey\\barberia_bd\\elbarbasshop   01_12  05_11_2024\\elbarbasshop\\elbarbasshop\\elbarbasshop\\elbarbasshop\\detalleventaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\detalleventaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\elbarbasshop\\frmtelefonocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\frmtelefonocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|c:\\users\\jeffrey\\desktop\\clonbaberiajeffrey\\barberia_bd\\elbarbasshop   01_12  05_11_2024\\elbarbasshop\\elbarbasshop\\elbarbasshop\\elbarbasshop\\detalleventaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\detalleventaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\elbarbasshop\\frmtelefonocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\frmtelefonocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|c:\\users\\jeffrey\\desktop\\clonbaberiajeffrey\\barberia_bd\\elbarbasshop   01_12  05_11_2024\\elbarbasshop\\elbarbasshop\\elbarbasshop\\elbarbasshop\\detalleventaproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\detalleventaproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\elbarbasshop\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|c:\\users\\jeffrey\\desktop\\clonbaberiajeffrey\\barberia_bd\\elbarbasshop   01_12  05_11_2024\\elbarbasshop\\elbarbasshop\\elbarbasshop\\elbarbasshop\\formcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\formcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6FB1CCD-779F-462B-A21F-6D75E114AB17}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\capaentidad\\entempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6FB1CCD-779F-462B-A21F-6D75E114AB17}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\entempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6FB1CCD-779F-462B-A21F-6D75E114AB17}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\capaentidad\\entventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C6FB1CCD-779F-462B-A21F-6D75E114AB17}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\capaentidad\\entventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6FB1CCD-779F-462B-A21F-6D75E114AB17}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\entventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6FB1CCD-779F-462B-A21F-6D75E114AB17}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\capaentidad\\entusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6FB1CCD-779F-462B-A21F-6D75E114AB17}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\entusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81AD9F1D-FB32-4688-906C-A090DF8CAF8D}|CapaAccesoDatos\\CapaAccesoDatos.csproj|C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\capaaccesodatos\\datventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81AD9F1D-FB32-4688-906C-A090DF8CAF8D}|CapaAccesoDatos\\CapaAccesoDatos.csproj|solutionrelative:capaaccesodatos\\datventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6FB1CCD-779F-462B-A21F-6D75E114AB17}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\capaentidad\\enttelefonoempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C6FB1CCD-779F-462B-A21F-6D75E114AB17}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\capaentidad\\enttelefonoempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6FB1CCD-779F-462B-A21F-6D75E114AB17}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\enttelefonoempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6FB1CCD-779F-462B-A21F-6D75E114AB17}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\capaentidad\\enttelefonocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6FB1CCD-779F-462B-A21F-6D75E114AB17}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\enttelefonocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6FB1CCD-779F-462B-A21F-6D75E114AB17}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\capaentidad\\entservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6FB1CCD-779F-462B-A21F-6D75E114AB17}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\entservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6FB1CCD-779F-462B-A21F-6D75E114AB17}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\capaentidad\\entproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6FB1CCD-779F-462B-A21F-6D75E114AB17}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\entproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6FB1CCD-779F-462B-A21F-6D75E114AB17}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\capaentidad\\entmetodopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6FB1CCD-779F-462B-A21F-6D75E114AB17}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\entmetodopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6FB1CCD-779F-462B-A21F-6D75E114AB17}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\capaentidad\\enthorario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6FB1CCD-779F-462B-A21F-6D75E114AB17}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\enthorario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6FB1CCD-779F-462B-A21F-6D75E114AB17}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\capaentidad\\entdetalleventaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6FB1CCD-779F-462B-A21F-6D75E114AB17}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\entdetalleventaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6FB1CCD-779F-462B-A21F-6D75E114AB17}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\capaentidad\\entdetalleventaproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6FB1CCD-779F-462B-A21F-6D75E114AB17}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\entdetalleventaproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6FB1CCD-779F-462B-A21F-6D75E114AB17}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\capaentidad\\entcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C6FB1CCD-779F-462B-A21F-6D75E114AB17}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\capaentidad\\entcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6FB1CCD-779F-462B-A21F-6D75E114AB17}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\entcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6FB1CCD-779F-462B-A21F-6D75E114AB17}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\capaentidad\\entbarberia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6FB1CCD-779F-462B-A21F-6D75E114AB17}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\entbarberia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\elbarbasshop\\frmtelefonoempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\frmtelefonoempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6FB1CCD-779F-462B-A21F-6D75E114AB17}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\capaentidad\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C6FB1CCD-779F-462B-A21F-6D75E114AB17}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{27E53503-1D63-4D19-98D5-EEE52FF5C636}|CapaLogica\\CapaLogica.csproj|C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\capalogica\\logventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E53503-1D63-4D19-98D5-EEE52FF5C636}|CapaLogica\\CapaLogica.csproj|solutionrelative:capalogica\\logventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6FB1CCD-779F-462B-A21F-6D75E114AB17}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\capaentidad\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6FB1CCD-779F-462B-A21F-6D75E114AB17}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\elbarbasshop\\frmtelefonoempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\frmtelefonoempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\piero\\downloads\\elbarbasshop\\elbarbasshop\\elbarbasshop\\elbarbasshop\\forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{27E53503-1D63-4D19-98D5-EEE52FF5C636}|CapaLogica\\CapaLogica.csproj|C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\capalogica\\logtelefonoempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E53503-1D63-4D19-98D5-EEE52FF5C636}|CapaLogica\\CapaLogica.csproj|solutionrelative:capalogica\\logtelefonoempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81AD9F1D-FB32-4688-906C-A090DF8CAF8D}|CapaAccesoDatos\\CapaAccesoDatos.csproj|C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\capaaccesodatos\\dattelefonoempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81AD9F1D-FB32-4688-906C-A090DF8CAF8D}|CapaAccesoDatos\\CapaAccesoDatos.csproj|solutionrelative:capaaccesodatos\\dattelefonoempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E53503-1D63-4D19-98D5-EEE52FF5C636}|CapaLogica\\CapaLogica.csproj|C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\capalogica\\logempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E53503-1D63-4D19-98D5-EEE52FF5C636}|CapaLogica\\CapaLogica.csproj|solutionrelative:capalogica\\logempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E53503-1D63-4D19-98D5-EEE52FF5C636}|CapaLogica\\CapaLogica.csproj|C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\capalogica\\logbarberia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E53503-1D63-4D19-98D5-EEE52FF5C636}|CapaLogica\\CapaLogica.csproj|solutionrelative:capalogica\\logbarberia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E53503-1D63-4D19-98D5-EEE52FF5C636}|CapaLogica\\CapaLogica.csproj|C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\capalogica\\logcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E53503-1D63-4D19-98D5-EEE52FF5C636}|CapaLogica\\CapaLogica.csproj|solutionrelative:capalogica\\logcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E53503-1D63-4D19-98D5-EEE52FF5C636}|CapaLogica\\CapaLogica.csproj|C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\capalogica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E53503-1D63-4D19-98D5-EEE52FF5C636}|CapaLogica\\CapaLogica.csproj|solutionrelative:capalogica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81AD9F1D-FB32-4688-906C-A090DF8CAF8D}|CapaAccesoDatos\\CapaAccesoDatos.csproj|C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\capaaccesodatos\\datempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81AD9F1D-FB32-4688-906C-A090DF8CAF8D}|CapaAccesoDatos\\CapaAccesoDatos.csproj|solutionrelative:capaaccesodatos\\datempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\elbarbasshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81AD9F1D-FB32-4688-906C-A090DF8CAF8D}|CapaAccesoDatos\\CapaAccesoDatos.csproj|C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\capaaccesodatos\\datcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81AD9F1D-FB32-4688-906C-A090DF8CAF8D}|CapaAccesoDatos\\CapaAccesoDatos.csproj|solutionrelative:capaaccesodatos\\datcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6FB1CCD-779F-462B-A21F-6D75E114AB17}|CapaEntidad\\CapaEntidad.csproj|C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\capaentidad\\enttelefonocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6FB1CCD-779F-462B-A21F-6D75E114AB17}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\enttelefonocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\elbarbasshop\\frmbuscarempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\frmbuscarempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\elbarbasshop\\frmbuscarsedebarberia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D4FC8A-ABBF-45F5-8620-F52F812F46F2}|ElBarbasShop\\CapaPresentacion.csproj|solutionrelative:elbarbasshop\\frmbuscarsedebarberia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81AD9F1D-FB32-4688-906C-A090DF8CAF8D}|CapaAccesoDatos\\CapaAccesoDatos.csproj|C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\capaaccesodatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81AD9F1D-FB32-4688-906C-A090DF8CAF8D}|CapaAccesoDatos\\CapaAccesoDatos.csproj|solutionrelative:capaaccesodatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -201,582 +190,516 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FrmUsuario.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmUsuario.cs",
-              "RelativeDocumentMoniker": "ElBarbasShop\\FrmUsuario.cs",
-              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmUsuario.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ElBarbasShop\\FrmUsuario.cs [Dise\u00F1o]",
+              "DocumentIndex": 6,
+              "Title": "FrmSedeBarberia.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmSedeBarberia.cs",
+              "RelativeDocumentMoniker": "ElBarbasShop\\FrmSedeBarberia.cs",
+              "ToolTip": "C:\\Users\\nicol\\source\\repos\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmSedeBarberia.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\nicol\\source\\repos\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmSedeBarberia.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T05:02:12.481Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FrmTelefonoEmpleado.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmTelefonoEmpleado.cs",
-              "RelativeDocumentMoniker": "ElBarbasShop\\FrmTelefonoEmpleado.cs",
-              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmTelefonoEmpleado.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ElBarbasShop\\FrmTelefonoEmpleado.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T04:57:35.339Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FrmTelefonoCliente.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmTelefonoCliente.cs",
-              "RelativeDocumentMoniker": "ElBarbasShop\\FrmTelefonoCliente.cs",
-              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmTelefonoCliente.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ElBarbasShop\\FrmTelefonoCliente.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T04:53:13.939Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-11-18T15:59:29.343Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FrmVenta.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmVenta.cs",
-              "RelativeDocumentMoniker": "ElBarbasShop\\FrmVenta.cs",
-              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmVenta.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ElBarbasShop\\FrmVenta.cs [Dise\u00F1o]",
+              "Title": "FrmBuscarEmpleado.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmBuscarEmpleado.cs",
+              "RelativeDocumentMoniker": "ElBarbasShop\\FrmBuscarEmpleado.cs",
+              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmBuscarEmpleado.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ElBarbasShop\\FrmBuscarEmpleado.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T04:23:43.123Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\Program.cs",
-              "RelativeDocumentMoniker": "ElBarbasShop\\Program.cs",
-              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\Program.cs",
-              "RelativeToolTip": "ElBarbasShop\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T02:56:54.76Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FrmVenta.cs",
-              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmVenta.cs",
-              "RelativeDocumentMoniker": "ElBarbasShop\\FrmVenta.cs",
-              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmVenta.cs",
-              "RelativeToolTip": "ElBarbasShop\\FrmVenta.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAArwBcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T05:10:59.857Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FrmUsuario.cs",
-              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmUsuario.cs",
-              "RelativeDocumentMoniker": "ElBarbasShop\\FrmUsuario.cs",
-              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmUsuario.cs",
-              "RelativeToolTip": "ElBarbasShop\\FrmUsuario.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAArwBEAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T05:05:43.535Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "FrmTelefonoCliente.cs",
-              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmTelefonoCliente.cs",
-              "RelativeDocumentMoniker": "ElBarbasShop\\FrmTelefonoCliente.cs",
-              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmTelefonoCliente.cs",
-              "RelativeToolTip": "ElBarbasShop\\FrmTelefonoCliente.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAArwBEAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T04:55:14.172Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FrmServicio.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmServicio.cs",
-              "RelativeDocumentMoniker": "ElBarbasShop\\FrmServicio.cs",
-              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmServicio.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ElBarbasShop\\FrmServicio.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T04:46:26.482Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-11-18T16:48:43.279Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "FrmTelefonoEmpleado.cs",
-              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmTelefonoEmpleado.cs",
-              "RelativeDocumentMoniker": "ElBarbasShop\\FrmTelefonoEmpleado.cs",
-              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmTelefonoEmpleado.cs",
-              "RelativeToolTip": "ElBarbasShop\\FrmTelefonoEmpleado.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAArwBEAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T04:59:06.848Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "FrmSedeBarberia.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmSedeBarberia.cs",
-              "RelativeDocumentMoniker": "ElBarbasShop\\FrmSedeBarberia.cs",
-              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmSedeBarberia.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ElBarbasShop\\FrmSedeBarberia.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T04:33:48.497Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "FrmSedeBarberia.cs",
-              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmSedeBarberia.cs",
-              "RelativeDocumentMoniker": "ElBarbasShop\\FrmSedeBarberia.cs",
-              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmSedeBarberia.cs",
-              "RelativeToolTip": "ElBarbasShop\\FrmSedeBarberia.cs",
-              "ViewState": "AgIAANkAAAAAAAAAAAAnwOgAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T04:34:15.931Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
               "Title": "FrmMetodoPago.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmMetodoPago.cs",
+              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmMetodoPago.cs",
               "RelativeDocumentMoniker": "ElBarbasShop\\FrmMetodoPago.cs",
-              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmMetodoPago.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ElBarbasShop\\FrmMetodoPago.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\nicol\\source\\repos\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmMetodoPago.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\nicol\\source\\repos\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmMetodoPago.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T04:19:37.731Z",
+              "WhenOpened": "2024-11-19T01:44:07.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmSedeBarberia.cs",
+              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmSedeBarberia.cs",
+              "RelativeDocumentMoniker": "ElBarbasShop\\FrmSedeBarberia.cs",
+              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmSedeBarberia.cs",
+              "RelativeToolTip": "ElBarbasShop\\FrmSedeBarberia.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAAAOIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:59:31.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Frmlogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\Frmlogin.cs",
+              "RelativeDocumentMoniker": "ElBarbasShop\\Frmlogin.cs",
+              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\Frmlogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ElBarbasShop\\Frmlogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:44:11.33Z",
               "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmMetodoPago.cs",
+              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmMetodoPago.cs",
+              "RelativeDocumentMoniker": "ElBarbasShop\\FrmMetodoPago.cs",
+              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmMetodoPago.cs",
+              "RelativeToolTip": "ElBarbasShop\\FrmMetodoPago.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA6wBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:44:09.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmVenta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmVenta.cs",
+              "RelativeDocumentMoniker": "ElBarbasShop\\FrmVenta.cs",
+              "ToolTip": "C:\\Users\\nicol\\source\\repos\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmVenta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\nicol\\source\\repos\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmVenta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T00:07:02.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmVenta.cs",
+              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmVenta.cs",
+              "RelativeDocumentMoniker": "ElBarbasShop\\FrmVenta.cs",
+              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmVenta.cs",
+              "RelativeToolTip": "ElBarbasShop\\FrmVenta.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAA6wDoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T20:01:52.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmHorario.cs",
+              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmHorario.cs",
+              "RelativeDocumentMoniker": "ElBarbasShop\\FrmHorario.cs",
+              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmHorario.cs",
+              "RelativeToolTip": "ElBarbasShop\\FrmHorario.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:44:39.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmHorario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmHorario.cs",
+              "RelativeDocumentMoniker": "ElBarbasShop\\FrmHorario.cs",
+              "ToolTip": "C:\\Users\\nicol\\source\\repos\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmHorario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\nicol\\source\\repos\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmHorario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:44:12.34Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "FrmServicio.cs",
-              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmServicio.cs",
-              "RelativeDocumentMoniker": "ElBarbasShop\\FrmServicio.cs",
-              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmServicio.cs",
-              "RelativeToolTip": "ElBarbasShop\\FrmServicio.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAArwBEAAAAbAAAAAAAAAA==",
+              "Title": "FrmEmpleado.cs",
+              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmEmpleado.cs",
+              "RelativeDocumentMoniker": "ElBarbasShop\\FrmEmpleado.cs",
+              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmEmpleado.cs",
+              "RelativeToolTip": "ElBarbasShop\\FrmEmpleado.cs",
+              "ViewState": "AgIAANIAAAAAAAAAAAAAAOMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T04:49:19.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T16:47:38.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmEmpleado.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmEmpleado.cs",
+              "RelativeDocumentMoniker": "ElBarbasShop\\FrmEmpleado.cs",
+              "ToolTip": "C:\\Users\\nicol\\source\\repos\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmEmpleado.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\nicol\\source\\repos\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmEmpleado.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T16:47:34.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmDetalleVentaServicio.cs",
+              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmDetalleVentaServicio.cs",
+              "RelativeDocumentMoniker": "ElBarbasShop\\FrmDetalleVentaServicio.cs",
+              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmDetalleVentaServicio.cs",
+              "RelativeToolTip": "ElBarbasShop\\FrmDetalleVentaServicio.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:44:34.138Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "FrmProducto.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmProducto.cs",
-              "RelativeDocumentMoniker": "ElBarbasShop\\FrmProducto.cs",
-              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmProducto.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ElBarbasShop\\FrmProducto.cs [Dise\u00F1o]",
+              "Title": "FrmDetalleVentaServicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmDetalleVentaServicio.cs",
+              "RelativeDocumentMoniker": "ElBarbasShop\\FrmDetalleVentaServicio.cs",
+              "ToolTip": "C:\\Users\\nicol\\source\\repos\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmDetalleVentaServicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\nicol\\source\\repos\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmDetalleVentaServicio.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T04:28:02.116Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "FrmMetodoPago.cs",
-              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmMetodoPago.cs",
-              "RelativeDocumentMoniker": "ElBarbasShop\\FrmMetodoPago.cs",
-              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmMetodoPago.cs",
-              "RelativeToolTip": "ElBarbasShop\\FrmMetodoPago.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAArwBEAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T04:25:36.196Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Frmlogin.cs",
-              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\Frmlogin.cs",
-              "RelativeDocumentMoniker": "ElBarbasShop\\Frmlogin.cs",
-              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\Frmlogin.cs",
-              "RelativeToolTip": "ElBarbasShop\\Frmlogin.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAWwBQAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T04:03:50.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T01:44:32.236Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "FrmProducto.cs",
-              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmProducto.cs",
-              "RelativeDocumentMoniker": "ElBarbasShop\\FrmProducto.cs",
-              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmProducto.cs",
-              "RelativeToolTip": "ElBarbasShop\\FrmProducto.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAWwBEAAAAbAAAAAAAAAA==",
+              "Title": "FrmDetalleVentaProducto.cs",
+              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmDetalleVentaProducto.cs",
+              "RelativeDocumentMoniker": "ElBarbasShop\\FrmDetalleVentaProducto.cs",
+              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmDetalleVentaProducto.cs",
+              "RelativeToolTip": "ElBarbasShop\\FrmDetalleVentaProducto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T04:30:30.164Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T01:44:30.973Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Frmlogin.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\Frmlogin.cs",
-              "RelativeDocumentMoniker": "ElBarbasShop\\Frmlogin.cs",
-              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\Frmlogin.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ElBarbasShop\\Frmlogin.cs [Dise\u00F1o]",
+              "DocumentIndex": 15,
+              "Title": "FrmDetalleVentaProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmDetalleVentaProducto.cs",
+              "RelativeDocumentMoniker": "ElBarbasShop\\FrmDetalleVentaProducto.cs",
+              "ToolTip": "C:\\Users\\nicol\\source\\repos\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmDetalleVentaProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\nicol\\source\\repos\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmDetalleVentaProducto.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T03:51:17.034Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "FrmHorario.cs",
-              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmHorario.cs",
-              "RelativeDocumentMoniker": "ElBarbasShop\\FrmHorario.cs",
-              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmHorario.cs",
-              "RelativeToolTip": "ElBarbasShop\\FrmHorario.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAArwBEAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T03:47:50.011Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "FrmHorario.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmHorario.cs",
-              "RelativeDocumentMoniker": "ElBarbasShop\\FrmHorario.cs",
-              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmHorario.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ElBarbasShop\\FrmHorario.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T03:44:07.252Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-11-19T01:44:29.413Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "FrmEmpleado.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmEmpleado.cs",
-              "RelativeDocumentMoniker": "ElBarbasShop\\FrmEmpleado.cs",
-              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmEmpleado.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ElBarbasShop\\FrmEmpleado.cs [Dise\u00F1o]",
+              "Title": "FrmTelefonoCliente.cs",
+              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmTelefonoCliente.cs",
+              "RelativeDocumentMoniker": "ElBarbasShop\\FrmTelefonoCliente.cs",
+              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmTelefonoCliente.cs",
+              "RelativeToolTip": "ElBarbasShop\\FrmTelefonoCliente.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T03:34:54.927Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-11-19T01:44:20.447Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "DetalleVentaServicio.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\DetalleVentaServicio.cs",
-              "RelativeDocumentMoniker": "ElBarbasShop\\DetalleVentaServicio.cs",
-              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\DetalleVentaServicio.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ElBarbasShop\\DetalleVentaServicio.cs [Dise\u00F1o]",
+              "DocumentIndex": 20,
+              "Title": "FrmServicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmServicio.cs",
+              "RelativeDocumentMoniker": "ElBarbasShop\\FrmServicio.cs",
+              "ToolTip": "C:\\Users\\nicol\\source\\repos\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmServicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\nicol\\source\\repos\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmServicio.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T03:18:05.607Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-11-19T01:44:14.866Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 19,
+              "Title": "FrmUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmUsuario.cs",
+              "RelativeDocumentMoniker": "ElBarbasShop\\FrmUsuario.cs",
+              "ToolTip": "C:\\Users\\nicol\\source\\repos\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\nicol\\source\\repos\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmUsuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T20:01:39.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmUsuario.cs",
+              "RelativeDocumentMoniker": "ElBarbasShop\\FrmUsuario.cs",
+              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmUsuario.cs",
+              "RelativeToolTip": "ElBarbasShop\\FrmUsuario.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T20:03:16.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "FrmBuscarSedeBarberia.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmBuscarSedeBarberia.cs",
+              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmBuscarSedeBarberia.cs",
               "RelativeDocumentMoniker": "ElBarbasShop\\FrmBuscarSedeBarberia.cs",
-              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmBuscarSedeBarberia.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ElBarbasShop\\FrmBuscarSedeBarberia.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\nicol\\source\\repos\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmBuscarSedeBarberia.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\nicol\\source\\repos\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmBuscarSedeBarberia.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T03:26:04.055Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-11-18T15:56:45.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmBuscarTelefonoEmpleado.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmBuscarTelefonoEmpleado.cs",
+              "RelativeDocumentMoniker": "ElBarbasShop\\FrmBuscarTelefonoEmpleado.cs",
+              "ToolTip": "C:\\Users\\nicol\\source\\repos\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmBuscarTelefonoEmpleado.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\nicol\\source\\repos\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmBuscarTelefonoEmpleado.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:56:40.048Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "FrmEmpleado.cs",
-              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmEmpleado.cs",
-              "RelativeDocumentMoniker": "ElBarbasShop\\FrmEmpleado.cs",
-              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmEmpleado.cs",
-              "RelativeToolTip": "ElBarbasShop\\FrmEmpleado.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAbAAAAAAAAAA==",
+              "Title": "FrmTelefonoCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmTelefonoCliente.cs",
+              "RelativeDocumentMoniker": "ElBarbasShop\\FrmTelefonoCliente.cs",
+              "ToolTip": "C:\\Users\\nicol\\source\\repos\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmTelefonoCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\nicol\\source\\repos\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmTelefonoCliente.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T03:35:30.795Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T19:58:18.455Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "FrmBuscarSedeBarberia.cs",
-              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmBuscarSedeBarberia.cs",
-              "RelativeDocumentMoniker": "ElBarbasShop\\FrmBuscarSedeBarberia.cs",
-              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmBuscarSedeBarberia.cs",
-              "RelativeToolTip": "ElBarbasShop\\FrmBuscarSedeBarberia.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAlwBQAAAAbAAAAAAAAAA==",
+              "DocumentIndex": 23,
+              "Title": "FrmProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmProducto.cs",
+              "RelativeDocumentMoniker": "ElBarbasShop\\FrmProducto.cs",
+              "ToolTip": "C:\\Users\\nicol\\source\\repos\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\nicol\\source\\repos\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmProducto.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T03:31:19.864Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T01:44:03.009Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
-              "Title": "DetalleVentaProducto.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\DetalleVentaProducto.cs",
-              "RelativeDocumentMoniker": "ElBarbasShop\\DetalleVentaProducto.cs",
-              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\DetalleVentaProducto.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ElBarbasShop\\DetalleVentaProducto.cs [Dise\u00F1o]",
+              "Title": "entTelefonoEmpleado.cs",
+              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaEntidad\\entTelefonoEmpleado.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\entTelefonoEmpleado.cs",
+              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaEntidad\\entTelefonoEmpleado.cs",
+              "RelativeToolTip": "CapaEntidad\\entTelefonoEmpleado.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T03:07:49.584Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-11-18T15:25:36.881Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "FormCliente.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FormCliente.cs",
-              "RelativeDocumentMoniker": "ElBarbasShop\\FormCliente.cs",
-              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FormCliente.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ElBarbasShop\\FormCliente.cs [Dise\u00F1o]",
+              "Title": "datVenta.cs",
+              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaAccesoDatos\\datVenta.cs",
+              "RelativeDocumentMoniker": "CapaAccesoDatos\\datVenta.cs",
+              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaAccesoDatos\\datVenta.cs",
+              "RelativeToolTip": "CapaAccesoDatos\\datVenta.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAuwC4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T18:01:02.573Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-11-18T20:07:30.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "entVenta.cs",
+              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaEntidad\\entVenta.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\entVenta.cs",
+              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaEntidad\\entVenta.cs",
+              "RelativeToolTip": "CapaEntidad\\entVenta.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T20:07:39.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "entCliente.cs",
+              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaEntidad\\entCliente.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\entCliente.cs",
+              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaEntidad\\entCliente.cs",
+              "RelativeToolTip": "CapaEntidad\\entCliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T00:20:42.164Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 28,
-              "Title": "DetalleVentaServicio.cs",
-              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\DetalleVentaServicio.cs",
-              "RelativeDocumentMoniker": "ElBarbasShop\\DetalleVentaServicio.cs",
-              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\DetalleVentaServicio.cs",
-              "RelativeToolTip": "ElBarbasShop\\DetalleVentaServicio.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAArwBYAAAA9AAAAAAAAAA==",
+              "Title": "FrmTelefonoEmpleado.cs",
+              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmTelefonoEmpleado.cs",
+              "RelativeDocumentMoniker": "ElBarbasShop\\FrmTelefonoEmpleado.cs",
+              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmTelefonoEmpleado.cs",
+              "RelativeToolTip": "ElBarbasShop\\FrmTelefonoEmpleado.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAYwDkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T03:22:24.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T15:33:39.911Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 29,
-              "Title": "DetalleVentaProducto.cs",
-              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\DetalleVentaProducto.cs",
-              "RelativeDocumentMoniker": "ElBarbasShop\\DetalleVentaProducto.cs",
-              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\DetalleVentaProducto.cs",
-              "RelativeToolTip": "ElBarbasShop\\DetalleVentaProducto.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAArwBEAAAAbAAAAAAAAAA==",
+              "Title": "logVenta.cs",
+              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaLogica\\logVenta.cs",
+              "RelativeDocumentMoniker": "CapaLogica\\logVenta.cs",
+              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaLogica\\logVenta.cs",
+              "RelativeToolTip": "CapaLogica\\logVenta.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCAAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T03:09:20.003Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T20:08:13.999Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 30,
-              "Title": "FormCliente.cs",
-              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FormCliente.cs",
-              "RelativeDocumentMoniker": "ElBarbasShop\\FormCliente.cs",
-              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FormCliente.cs",
-              "RelativeToolTip": "ElBarbasShop\\FormCliente.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Title": "FrmTelefonoEmpleado.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmTelefonoEmpleado.cs",
+              "RelativeDocumentMoniker": "ElBarbasShop\\FrmTelefonoEmpleado.cs",
+              "ToolTip": "C:\\Users\\nicol\\source\\repos\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmTelefonoEmpleado.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\nicol\\source\\repos\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmTelefonoEmpleado.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T02:51:50.768Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "entProducto.cs",
-              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaEntidad\\entProducto.cs",
-              "RelativeDocumentMoniker": "CapaEntidad\\entProducto.cs",
-              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaEntidad\\entProducto.cs",
-              "RelativeToolTip": "CapaEntidad\\entProducto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T06:05:10.004Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "entServicio.cs",
-              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaEntidad\\entServicio.cs",
-              "RelativeDocumentMoniker": "CapaEntidad\\entServicio.cs",
-              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaEntidad\\entServicio.cs",
-              "RelativeToolTip": "CapaEntidad\\entServicio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T06:04:56.433Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "entMetodoPago.cs",
-              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaEntidad\\entMetodoPago.cs",
-              "RelativeDocumentMoniker": "CapaEntidad\\entMetodoPago.cs",
-              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaEntidad\\entMetodoPago.cs",
-              "RelativeToolTip": "CapaEntidad\\entMetodoPago.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T06:04:12.699Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "entHorario.cs",
-              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaEntidad\\entHorario.cs",
-              "RelativeDocumentMoniker": "CapaEntidad\\entHorario.cs",
-              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaEntidad\\entHorario.cs",
-              "RelativeToolTip": "CapaEntidad\\entHorario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T06:03:37.303Z"
+              "WhenOpened": "2024-11-18T15:24:32.779Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 31,
-              "Title": "entEmpleado.cs",
-              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaEntidad\\entEmpleado.cs",
-              "RelativeDocumentMoniker": "CapaEntidad\\entEmpleado.cs",
-              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaEntidad\\entEmpleado.cs",
-              "RelativeToolTip": "CapaEntidad\\entEmpleado.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Title": "logTelefonoEmpleado.cs",
+              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaLogica\\logTelefonoEmpleado.cs",
+              "RelativeDocumentMoniker": "CapaLogica\\logTelefonoEmpleado.cs",
+              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaLogica\\logTelefonoEmpleado.cs",
+              "RelativeToolTip": "CapaLogica\\logTelefonoEmpleado.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T06:02:05.686Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "entTelefonoCliente.cs",
-              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaEntidad\\entTelefonoCliente.cs",
-              "RelativeDocumentMoniker": "CapaEntidad\\entTelefonoCliente.cs",
-              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaEntidad\\entTelefonoCliente.cs",
-              "RelativeToolTip": "CapaEntidad\\entTelefonoCliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T05:58:17.35Z"
+              "WhenOpened": "2024-11-18T15:34:34.271Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 32,
-              "Title": "entVenta.cs",
-              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaEntidad\\entVenta.cs",
-              "RelativeDocumentMoniker": "CapaEntidad\\entVenta.cs",
-              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaEntidad\\entVenta.cs",
-              "RelativeToolTip": "CapaEntidad\\entVenta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Title": "datTelefonoEmpleado.cs",
+              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaAccesoDatos\\datTelefonoEmpleado.cs",
+              "RelativeDocumentMoniker": "CapaAccesoDatos\\datTelefonoEmpleado.cs",
+              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaAccesoDatos\\datTelefonoEmpleado.cs",
+              "RelativeToolTip": "CapaAccesoDatos\\datTelefonoEmpleado.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAhwEoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T06:04:29.506Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "entDetalleVentaServicio.cs",
-              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaEntidad\\entDetalleVentaServicio.cs",
-              "RelativeDocumentMoniker": "CapaEntidad\\entDetalleVentaServicio.cs",
-              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaEntidad\\entDetalleVentaServicio.cs",
-              "RelativeToolTip": "CapaEntidad\\entDetalleVentaServicio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T06:05:29.452Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "entTelefonoEmpleado.cs",
-              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaEntidad\\entTelefonoEmpleado.cs",
-              "RelativeDocumentMoniker": "CapaEntidad\\entTelefonoEmpleado.cs",
-              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaEntidad\\entTelefonoEmpleado.cs",
-              "RelativeToolTip": "CapaEntidad\\entTelefonoEmpleado.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T06:02:26.452Z"
+              "WhenOpened": "2024-11-18T15:24:50.835Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 33,
-              "Title": "entUsuario.cs",
-              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaEntidad\\entUsuario.cs",
-              "RelativeDocumentMoniker": "CapaEntidad\\entUsuario.cs",
-              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaEntidad\\entUsuario.cs",
-              "RelativeToolTip": "CapaEntidad\\entUsuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Title": "logEmpleado.cs",
+              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaLogica\\logEmpleado.cs",
+              "RelativeDocumentMoniker": "CapaLogica\\logEmpleado.cs",
+              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaLogica\\logEmpleado.cs",
+              "RelativeToolTip": "CapaLogica\\logEmpleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T06:03:14.812Z"
+              "WhenOpened": "2024-11-18T15:37:05.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "logCliente.cs",
+              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaLogica\\logCliente.cs",
+              "RelativeDocumentMoniker": "CapaLogica\\logCliente.cs",
+              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaLogica\\logCliente.cs",
+              "RelativeToolTip": "CapaLogica\\logCliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T20:07:49.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaLogica\\Program.cs",
+              "RelativeDocumentMoniker": "CapaLogica\\Program.cs",
+              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaLogica\\Program.cs",
+              "RelativeToolTip": "CapaLogica\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T20:07:47.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "logBarberia.cs",
+              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaLogica\\logBarberia.cs",
+              "RelativeDocumentMoniker": "CapaLogica\\logBarberia.cs",
+              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaLogica\\logBarberia.cs",
+              "RelativeToolTip": "CapaLogica\\logBarberia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T16:07:17.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\Program.cs",
+              "RelativeDocumentMoniker": "ElBarbasShop\\Program.cs",
+              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\Program.cs",
+              "RelativeToolTip": "ElBarbasShop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:10:03.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "datEmpleado.cs",
+              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaAccesoDatos\\datEmpleado.cs",
+              "RelativeDocumentMoniker": "CapaAccesoDatos\\datEmpleado.cs",
+              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaAccesoDatos\\datEmpleado.cs",
+              "RelativeToolTip": "CapaAccesoDatos\\datEmpleado.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAawDYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:57:20.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "datCliente.cs",
+              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaAccesoDatos\\datCliente.cs",
+              "RelativeDocumentMoniker": "CapaAccesoDatos\\datCliente.cs",
+              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaAccesoDatos\\datCliente.cs",
+              "RelativeToolTip": "CapaAccesoDatos\\datCliente.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T19:57:26.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "entTelefonoCliente.cs",
+              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaEntidad\\entTelefonoCliente.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\entTelefonoCliente.cs",
+              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaEntidad\\entTelefonoCliente.cs",
+              "RelativeToolTip": "CapaEntidad\\entTelefonoCliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:16:24.098Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 41,
-              "Title": "entDetalleVentaProducto.cs",
-              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaEntidad\\entDetalleVentaProducto.cs",
-              "RelativeDocumentMoniker": "CapaEntidad\\entDetalleVentaProducto.cs",
-              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaEntidad\\entDetalleVentaProducto.cs",
-              "RelativeToolTip": "CapaEntidad\\entDetalleVentaProducto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Title": "FrmBuscarEmpleado.cs",
+              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmBuscarEmpleado.cs",
+              "RelativeDocumentMoniker": "ElBarbasShop\\FrmBuscarEmpleado.cs",
+              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmBuscarEmpleado.cs",
+              "RelativeToolTip": "ElBarbasShop\\FrmBuscarEmpleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T06:05:48.069Z"
+              "WhenOpened": "2024-11-18T16:50:13.775Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 42,
-              "Title": "entCliente.cs",
-              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaEntidad\\entCliente.cs",
-              "RelativeDocumentMoniker": "CapaEntidad\\entCliente.cs",
-              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaEntidad\\entCliente.cs",
-              "RelativeToolTip": "CapaEntidad\\entCliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Title": "FrmBuscarSedeBarberia.cs",
+              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmBuscarSedeBarberia.cs",
+              "RelativeDocumentMoniker": "ElBarbasShop\\FrmBuscarSedeBarberia.cs",
+              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\FrmBuscarSedeBarberia.cs",
+              "RelativeToolTip": "ElBarbasShop\\FrmBuscarSedeBarberia.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBcAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T05:46:08.332Z"
+              "WhenOpened": "2024-11-18T15:56:47.817Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 43,
-              "Title": "entBarberia.cs",
-              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaEntidad\\entBarberia.cs",
-              "RelativeDocumentMoniker": "CapaEntidad\\entBarberia.cs",
-              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaEntidad\\entBarberia.cs",
-              "RelativeToolTip": "CapaEntidad\\entBarberia.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaAccesoDatos\\Program.cs",
+              "RelativeDocumentMoniker": "CapaAccesoDatos\\Program.cs",
+              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClondeNico\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaAccesoDatos\\Program.cs",
+              "RelativeToolTip": "CapaAccesoDatos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T05:59:54.058Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaEntidad\\Form1.cs",
-              "RelativeDocumentMoniker": "CapaEntidad\\Form1.cs",
-              "ToolTip": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaEntidad\\Form1.cs",
-              "RelativeToolTip": "CapaEntidad\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T05:50:49.558Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\JEFFREY\\Desktop\\ClonBaberiaJeffrey\\BARBERIA_BD\\ElBarbasShop   01_12  05_11_2024\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaEntidad\\Form1.cs",
-              "RelativeDocumentMoniker": "CapaEntidad\\Form1.cs",
-              "ToolTip": "C:\\Users\\Piero\\Downloads\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaEntidad\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Piero\\Downloads\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\CapaEntidad\\Form1.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T05:29:50.195Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "frmMain.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Piero\\Downloads\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\Forms\\frmMain.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Piero\\Downloads\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\Forms\\frmMain.cs",
-              "ToolTip": "C:\\Users\\Piero\\Downloads\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\Forms\\frmMain.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Piero\\Downloads\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\ElBarbasShop\\Forms\\frmMain.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T05:11:53.847Z"
+              "WhenOpened": "2024-11-18T16:25:42.133Z"
             }
           ]
         }

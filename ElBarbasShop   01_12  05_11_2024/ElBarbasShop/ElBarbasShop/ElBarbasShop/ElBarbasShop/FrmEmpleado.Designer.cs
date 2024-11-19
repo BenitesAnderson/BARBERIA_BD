@@ -64,7 +64,7 @@
             this.button2.BackColor = System.Drawing.Color.White;
             this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button2.Location = new System.Drawing.Point(524, 398);
-            this.button2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button2.Margin = new System.Windows.Forms.Padding(4);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(37, 27);
             this.button2.TabIndex = 82;
@@ -141,7 +141,7 @@
             // txtidbarberia
             // 
             this.txtidbarberia.Location = new System.Drawing.Point(303, 400);
-            this.txtidbarberia.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtidbarberia.Margin = new System.Windows.Forms.Padding(4);
             this.txtidbarberia.Name = "txtidbarberia";
             this.txtidbarberia.Size = new System.Drawing.Size(191, 22);
             this.txtidbarberia.TabIndex = 71;
@@ -149,7 +149,7 @@
             // txtcorreo
             // 
             this.txtcorreo.Location = new System.Drawing.Point(303, 447);
-            this.txtcorreo.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtcorreo.Margin = new System.Windows.Forms.Padding(4);
             this.txtcorreo.Name = "txtcorreo";
             this.txtcorreo.Size = new System.Drawing.Size(191, 22);
             this.txtcorreo.TabIndex = 70;
@@ -157,7 +157,7 @@
             // txtdni
             // 
             this.txtdni.Location = new System.Drawing.Point(303, 348);
-            this.txtdni.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtdni.Margin = new System.Windows.Forms.Padding(4);
             this.txtdni.Name = "txtdni";
             this.txtdni.Size = new System.Drawing.Size(191, 22);
             this.txtdni.TabIndex = 69;
@@ -165,7 +165,7 @@
             // txtnombre
             // 
             this.txtnombre.Location = new System.Drawing.Point(303, 238);
-            this.txtnombre.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtnombre.Margin = new System.Windows.Forms.Padding(4);
             this.txtnombre.Name = "txtnombre";
             this.txtnombre.Size = new System.Drawing.Size(191, 22);
             this.txtnombre.TabIndex = 67;
@@ -186,7 +186,7 @@
             // txtapellidos
             // 
             this.txtapellidos.Location = new System.Drawing.Point(303, 291);
-            this.txtapellidos.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtapellidos.Margin = new System.Windows.Forms.Padding(4);
             this.txtapellidos.Name = "txtapellidos";
             this.txtapellidos.Size = new System.Drawing.Size(191, 22);
             this.txtapellidos.TabIndex = 63;
@@ -210,7 +210,7 @@
             this.button6.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button6.ForeColor = System.Drawing.Color.Black;
             this.button6.Location = new System.Drawing.Point(1281, 724);
-            this.button6.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button6.Margin = new System.Windows.Forms.Padding(4);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(106, 43);
             this.button6.TabIndex = 88;
@@ -221,7 +221,7 @@
             // 
             this.dgvempleado.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvempleado.Location = new System.Drawing.Point(652, 80);
-            this.dgvempleado.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.dgvempleado.Margin = new System.Windows.Forms.Padding(4);
             this.dgvempleado.Name = "dgvempleado";
             this.dgvempleado.RowHeadersWidth = 51;
             this.dgvempleado.Size = new System.Drawing.Size(760, 611);
@@ -235,12 +235,13 @@
             this.button5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button5.ForeColor = System.Drawing.Color.Black;
             this.button5.Location = new System.Drawing.Point(1063, 34);
-            this.button5.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button5.Margin = new System.Windows.Forms.Padding(4);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(110, 43);
             this.button5.TabIndex = 86;
             this.button5.Text = "ELIMINAR";
             this.button5.UseVisualStyleBackColor = false;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
             // button4
             // 
@@ -248,7 +249,7 @@
             this.button4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button4.ForeColor = System.Drawing.Color.Black;
             this.button4.Location = new System.Drawing.Point(873, 34);
-            this.button4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button4.Margin = new System.Windows.Forms.Padding(4);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(111, 43);
             this.button4.TabIndex = 85;
@@ -262,7 +263,7 @@
             this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button3.ForeColor = System.Drawing.Color.Black;
             this.button3.Location = new System.Drawing.Point(684, 34);
-            this.button3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button3.Margin = new System.Windows.Forms.Padding(4);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(113, 43);
             this.button3.TabIndex = 84;
@@ -277,7 +278,7 @@
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.ForeColor = System.Drawing.Color.Black;
             this.button1.Location = new System.Drawing.Point(391, 585);
-            this.button1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button1.Margin = new System.Windows.Forms.Padding(4);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(103, 44);
             this.button1.TabIndex = 83;
@@ -301,7 +302,7 @@
             // txtidempleado
             // 
             this.txtidempleado.Location = new System.Drawing.Point(303, 186);
-            this.txtidempleado.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtidempleado.Margin = new System.Windows.Forms.Padding(4);
             this.txtidempleado.Name = "txtidempleado";
             this.txtidempleado.Size = new System.Drawing.Size(191, 22);
             this.txtidempleado.TabIndex = 90;
@@ -315,7 +316,7 @@
             "Cajero",
             "Limpieza"});
             this.cmbcargo.Location = new System.Drawing.Point(303, 505);
-            this.cmbcargo.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.cmbcargo.Margin = new System.Windows.Forms.Padding(4);
             this.cmbcargo.Name = "cmbcargo";
             this.cmbcargo.Size = new System.Drawing.Size(191, 24);
             this.cmbcargo.TabIndex = 91;
@@ -325,7 +326,7 @@
             // 
             this.button7.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button7.Location = new System.Drawing.Point(1246, 34);
-            this.button7.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.button7.Margin = new System.Windows.Forms.Padding(5);
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(151, 43);
             this.button7.TabIndex = 92;
@@ -337,7 +338,7 @@
             // 
             this.btnlimpiar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnlimpiar.Location = new System.Drawing.Point(272, 586);
-            this.btnlimpiar.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.btnlimpiar.Margin = new System.Windows.Forms.Padding(5);
             this.btnlimpiar.Name = "btnlimpiar";
             this.btnlimpiar.Size = new System.Drawing.Size(110, 43);
             this.btnlimpiar.TabIndex = 93;
@@ -395,7 +396,7 @@
             this.Controls.Add(this.txtapellidos);
             this.Controls.Add(this.label1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "FrmEmpleado";
             this.Text = "EL BARBAS";
             this.Load += new System.EventHandler(this.FrmEmpleado_Load);

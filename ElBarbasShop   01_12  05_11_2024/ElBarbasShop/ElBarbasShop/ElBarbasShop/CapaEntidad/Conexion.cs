@@ -24,7 +24,7 @@ namespace CapaEntidad
             public SqlConnection Conectar()
             {
                 SqlConnection cn = new SqlConnection();
-                cn.ConnectionString = "Data Source=localhost\\SQL2024; Initial Catalog = BARBAS_BD; Integrated Security=true";
+                cn.ConnectionString = "Data Source=LAPTOPNICO\\SQLEXPRESS; Initial Catalog = BARBAS_BD; Integrated Security=true";
 
                 return cn;
             }
